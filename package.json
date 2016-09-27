@@ -1,0 +1,23 @@
+{
+  "name": "bole",
+  "version": "1.0.0",
+  "description": "伯乐在线部分数据资料",
+  "main": "bole.js",
+  "scripts": {
+    "test": "crawler bole"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bole"
+  },
+  "keywords": [
+    "bole",
+    "crawler"
+  ],
+  "author": "李沛峰",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^0.4.3",
+    "express": "^4.14.0"
+  }
+}

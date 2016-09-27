@@ -1,0 +1,2282 @@
+[
+    {
+        "title": "django-rest-framework：一个强大灵活的工具，用来构建Web API",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/fe6ef6f7a0d434c3c685baae808a66e5.png",
+        "detail": "Django REST framework是一个强大而灵活的Web API构建工具。详细介绍 »"
+    },
+    {
+        "title": "mongoose：嵌入式Web服务器",
+        "authorName": "Anloper",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/9b170847526f761ece27e44c0eaa7916.png",
+        "detail": "mongoose是一个理想的嵌入式环境，专为设备互联而设计。Mongoose使嵌入式网络编程更为快速、稳健和简单。详细介绍 »"
+    },
+    {
+        "title": "MaterialProgressBar：和Material Design效果外观一致的进度条",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/f46c77d2580ab32de09e5c6ee08e85bc.png",
+        "detail": "MaterialProgressBar是一款针对Android 4.0以上的Material Desgin风格的进度条。详细介绍 »"
+    },
+    {
+        "title": "Cordova：跨平台前端编译库",
+        "authorName": "邢敏",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/11301b87af04079f6048a3f789cafb15.png",
+        "detail": "HTML、CSS 和 JS 写就的前端，通过Cordova可以生成多个平台的前端。不仅仅是Android、iOS App，还可以是Windows应用、mac应用，甚至更多。详细介绍 »"
+    },
+    {
+        "title": "JeroMQ：ZeroMQ的纯Java实现",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/42ebd634eb5b6d39d6ee15f79f5922af.png",
+        "detail": "JeroMQ是libzmq（ZeroMQ）的纯Java实现。详细介绍 »"
+    },
+    {
+        "title": "Apache Ant：一个基于Java的编译工具",
+        "authorName": "oneDay",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/cf647628151967534bee90e84b8ce695-1024x486.png",
+        "detail": "Apache Ant是一个基于Java的编译工具。它从功能上类似于make，但它以克服了make的缺点。详细介绍 »"
+    },
+    {
+        "title": "jMonkeyEngine：现代3D游戏开发引擎",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/8f55ebf72f69f6710b81f5f80a50d2a5.png",
+        "detail": "jMonkeyEngine是一个免费开源的游戏引擎，尤其适合于那些希望通过现代技术开发3D游戏的Java开发者。该软件完全在Java基础上编程，提供了更佳的可访问性并且支持快速部署。详细介绍 »"
+    },
+    {
+        "title": "PyBrain：基于Python的机器学习库",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/d1006f5fb47421abe8f52d9b401ed042.png",
+        "detail": "PyBrain是一个基于Python的机器学习库，将一系列的数据处理的算法封装到被称之为Module的模块中。详细介绍 »"
+    },
+    {
+        "title": "Apache Aurora：Mesos框架，用于长时间运行服务和定时任务",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/4f98dc8834d35874e3a6531deb41ac7a.png",
+        "detail": "Apache Aurora是长期运行服务、cron作业和ad-hoc作业的运行于Apache Mesos之上的框架，它利用了Apache Mesos的可扩展性，容错性和资源隔离的特性。详细介绍 »"
+    },
+    {
+        "title": "android-remote-notifications：从远程JSON文件拉取通知显示在你的应用中",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/b6b068bd348bb83e80b75ef1af67699c.jpg",
+        "detail": "android-remote-notifications是一个谷歌GCM /亚马逊SNS 使用的用获取来替代推送的服务。详细介绍 »"
+    },
+    {
+        "title": "PHP CPP：一个开发PHP扩展的C++库",
+        "authorName": "邢敏",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/df56ea18732519679447dc01b00fe4b4.png",
+        "detail": "PHP-CPP是一个开源的C++库，通过它可以快速方便地写出的C++函数，然后给php调用。不同于那些实现过于复杂难用的扩展，使用PHP-CPP写就的扩展非常简单易懂。详细介绍 »"
+    },
+    {
+        "title": "Apache Mahout：经典机器学习算法库",
+        "authorName": "云中游",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/91795968e2ef04827b3edfbb639598f8.png",
+        "detail": "Mahout 是 Apache Software Foundation旗下的一个开源项目，提供一些可扩展的机器学习领域经典算法的实现，旨在帮助开发人员更加方便快捷地创建智能应用程序。详细介绍 »"
+    },
+    {
+        "title": "WilliamChart：优美和直观的图表库",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/0ba696211a1e8b7759d1a5e523cae11a.png",
+        "detail": "WilliamChart一个帮助在Android应用程序中实现图表的开源库。详细介绍 »"
+    },
+    {
+        "title": "Singularity：方便部署和操作的Mesos框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/6a5f83671e588dc4ae6834489ad527a8.png",
+        "detail": "Singularity是一个运行和调度Apache Mesos任务的API和web应用，包括长时间运行的处理、有计划的工作和一次性的任务。详细介绍 »"
+    },
+    {
+        "title": "android-crop：漂亮的图片裁切工具",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/a43b29b84232b439578706018ef4f923.jpg",
+        "detail": "android-crop是Android 开源库项目，提供了一个简单的图像裁剪Activity，代码基于 AOSP。详细介绍 »"
+    },
+    {
+        "title": "HelloCharts：支持缩放、滚动和其它动画的图表库",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/cd699300bbf32f4a05b855445c80ed75-1024x587.jpg",
+        "detail": "HelloCharts是一个支持缩放、滚动和其它动画的Android图表库。详细介绍 »"
+    },
+    {
+        "title": "libevent：一个在网络服务器中事件驱动开发库",
+        "authorName": "Anloper",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/4badacc3899ce64692d5870d4255973d.png",
+        "detail": "Libevent 是一个基于事件触发的网络库，可以在多个平台上编译，如Linux、*BSD、Mac OSX、Solaris、Windows等。详细介绍 »"
+    },
+    {
+        "title": "Orange：通过可视化编程或 Python 脚本进行数据挖掘、数据可视化、分析和机器学习",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/7386a0e5f4b50d6ebd993163313bde91.png",
+        "detail": "Orange是一个基于组件的数据挖掘软件。它包括一系列的数据可视化、检索、预处理和建模技术。它不但具有一个良好的用户界面，同时也可以作为Python的一个模块使用。详细介绍 »"
+    },
+    {
+        "title": "AChartEngine：Android开源图表库",
+        "authorName": "晓峰残月",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/fd71e4d0461869aa15084b28c7b52c19.png",
+        "detail": "AChartEngine是Android 应用的一个图表库，支持折线图、面积图、散点图等。详细介绍 »"
+    },
+    {
+        "title": "AppDynamics：一款端到端的应用性能管理平台",
+        "authorName": "oneDay",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/4e62b36849854c72070d16873acaa26a-1024x475.jpg",
+        "detail": "AppDynamics是一款优秀的应用性能管理平台，能够为企业提供端到端的、可视化驱动管理的平台。详细介绍 »"
+    },
+    {
+        "title": "Uncorked Studios Export Helpers：最好的PS导出动作",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/00163f579dd2a295724d1b34eeb93729.jpg",
+        "detail": "Uncorked Studios Export Helpers：这个动作集是最好的PS导出动作，它陪伴了我10年之久，助我提高工作效率，前所未有的好用。详细介绍 »"
+    },
+    {
+        "title": "SimpleCV：开源计算机视觉框架",
+        "authorName": "Daetalus",
+        "imgUrl": "http://simplecv.org/assets/SM_logo_color.png",
+        "detail": "SimpleCV是一个开源框架，用于在Python中方便快速的构建计算机视觉方面的应用程序。详细介绍 »"
+    },
+    {
+        "title": "Zookeeper：分布式系统协调",
+        "authorName": "Zemo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/6e413a43c6ddf9e98a7a2ea4b4d9f55a.png",
+        "detail": "Apache Zookeeper 是hadoop的一个子项目,致力于高可靠的分布式协调的开源框架。提供的功能包括：配置维护、名字服务、分布式同步、组服务等。ZooKeeper的目标就是封装好复杂易出错的关键服务，将简单易用的接口和性能高效、功能稳定的系统提供给用户。详细介绍 »"
+    },
+    {
+        "title": "ANDLineChartView：在视图类中便捷显示有动画效果的折线图",
+        "authorName": "徐健",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/6ca8f92bc48040f71ba9cb439844db63.gif",
+        "detail": "使用 ANDLineChartView 可以便捷的在视图类中显示有动画效果的折线图。\r\n详细介绍 »"
+    },
+    {
+        "title": "EChart：高度可扩展，简单易用的图表库",
+        "authorName": "徐健",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/5eff83621aa42a308d3d847f23017059.png",
+        "detail": "EChart是一个拥有高度可扩展性，简单易用的图表，提供了事件处理和动画支持。详细介绍 »"
+    },
+    {
+        "title": "JRebel：热部署解决方案",
+        "authorName": "Zemo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/da46d15b629881834c501134c81dd546.png",
+        "detail": "JRebel是一套JavaEE开发工具，可以越过build和redeploy的过程，直接重新加载class和resource以实现热部署，兼容超过90个流行框架。JRebel允许开发团队在有限的时间内完成更多的任务修正更多的问题，发布更高质量的软件产品。JRebel是付费商业软件。详细介绍 »"
+    },
+    {
+        "title": "TEAChart：一个简单直接的iOS图表库",
+        "authorName": "徐健",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/b3feb889f34151d089b46db04b2fc027.png",
+        "detail": "TEAChart是一个简单直接的iOS图表库用于 Pomotodo app，提供贡献图、饼图和柱状图。详细介绍 »"
+    },
+    {
+        "title": "HPPC：高效的Java集合库",
+        "authorName": "云中游",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/4ae1450d932b33883103c9057a03518b.png",
+        "detail": "HPPC（高性能的原始集合）库专注高性能和高存储效率优化，提供了经典Java集合的高性能实现，支持所有原生类似，包括List、Set 和Map等。详细介绍 »"
+    },
+    {
+        "title": "Weka：一个开源的机器学习和数据挖掘软件",
+        "authorName": "云中游",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/28c8edde3d61a0411511d3b1866f06361-300x216.png",
+        "detail": "Weka作为一个公开的数据挖掘工作平台，集合了大量能承担数据挖掘任务的机器学习算法，包括对数据进行预处理，分类，回归、聚类、关联规则以及在新的交互式界面上的可视化。如果想自己实现数据挖掘算法的话，可以参考Weka的接口文档。在Weka中可以方便地集成自己的算法或者借鉴它的方法自己实现可视化工具。详细介绍 »"
+    },
+    {
+        "title": "XYPieChart：一款简单易用的图表库",
+        "authorName": "Haer不变",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/ddd5de29c8cc7869fc2a00ec0d42c903.png",
+        "detail": "XYPieChart是一款为iOS开发提供的简单易用的饼状图库，可以呈现动态图表且没有相互影响。所有动效都是DrawRect:方法实现，XYPieChar重写了BTSPieChar，动画都是基于CALayer。插入和删除饼状图块的算法更加简单，对于饼状图块有不同设计，自定义更加方便。详细介绍 »"
+    },
+    {
+        "title": "Transform Each 2.1：不用编组，实现多个图层的自由变换脚本",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/613181d3d6e76e98518e9d2214f58fd2.png",
+        "detail": "Transform Each 2.1是一款很实用的专攻变换的PS脚本插件，把AI中有但PS暂时不支持的一个小功能补充了进来。当你需要成组的变换图层时，它能帮你独立地变换每一个图层，听上去有点复杂，容我细细道来。详细介绍 »"
+    },
+    {
+        "title": "render.ly：强大的PS设计导出插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/8217b1e25c95825741d5fbab28ab3205.png",
+        "detail": "render.ly是一款强大的PS设计导出插件，主要支持UI屏幕可替换，以及一键提取web字体和资源功能。又快又好用的插件哪里找？详细介绍 »"
+    },
+    {
+        "title": "Titlemizer：随机文字生成插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/1a155ac222d680c0b91ee81d01b1ce77.png",
+        "detail": "Titlemizer是个高级Photoshop插件，可以生成随机标题、引语、文本、日期及用户名。目前支持的语言有英语、乌克兰语、俄语，可生成的语义主题有技术、经济和政治类。该插件支持PS CC 2014，兼容Mac和Windows平台。详细介绍 »"
+    },
+    {
+        "title": "RESONATOR：设计稿管理神器",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/9d6885a30b45d0cc4bb8e78a66864a0b.png",
+        "detail": "RESONATOR是一款Adobe Photoshop插件，它能帮你更好地收集、存储、导出设计元素。支持PS CC 2014及以上版本，兼容Mac和Windows平台。详细介绍 »"
+    },
+    {
+        "title": "documents4j：Java文档格式转换开发库",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/fadcb5a2c771e5d485641b21975ef9b8.png",
+        "detail": "document4j是一个用来进行文档格式转换的Java工具库，它通过借助本机中支持指定文件格式到目标文件格式转换的应用，来实现整个转换的过程。详细介绍 »"
+    },
+    {
+        "title": "iniparser：C 语言配置文件解析库",
+        "authorName": "answer",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2015/11/ba617727e903bb7120989f0699fde13a.jpg",
+        "detail": "iniparser是针对INI文件的解析器。ini文件则是一些系统或者软件的配置文件。详细介绍 »"
+    },
+    {
+        "title": "CSS Hat：让图层一键生成CSS3代码",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/1a8254f13e8a57a97aefcd8db069b228.png",
+        "detail": "CSS hat 2 是一款PS插件，能帮助用户把图层一键转换为CSS3代码。支持Photoshop CC 2014/2015，兼容Mac、Windows平台详细介绍 »"
+    },
+    {
+        "title": "NetMQ：.NET轻量级消息队列",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/f7ac02109738ea6a25ae8aecc545e0a4.jpg",
+        "detail": "NetMQ是一个.NET轻量级消息队列框架，是大名鼎鼎的ZeroMQ的.NET版本详细介绍 »"
+    },
+    {
+        "title": "NPOI：.NET开源Office文档读写类",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/29c3b58f20885c66f07e3e7b693c5988.png",
+        "detail": "NPOI是一个.NET开源Office文档读写类，它兼容多种Office版本文档格式（xls、xlsx等），兼容性强。详细介绍 »"
+    },
+    {
+        "title": "Quartz.NET：.NET平台任务计划与调度程序",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/30fdc5046236cd1cff0790168cb9c0e6-1024x515.jpg",
+        "detail": "Quartz.NET是一个适用于多种场景的任务计划调度框架，由Quartz移植而来。详细介绍 »"
+    },
+    {
+        "title": "JBChartView： iOS图表库，包含折线图和直方图",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/e4d9bfd5eaba50aa33a3adb031f4b90b.png",
+        "detail": "JBChartView 是一个基于 iOS 的图表库，包含折线图和直方图，使用方便而且可定制性高。详细介绍 »"
+    },
+    {
+        "title": "EclipseLink：支持JPA、JAXB、JCA和SDO等多种持久化标准的ORM",
+        "authorName": "贺贺",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/82ee7cc672681b773a16d3f4c7440140.png",
+        "detail": "EclipseLink基于TopLink（由Oracle贡献），是一个开源的Eclipse持久层服务项目，该项目的目标是提供一个既全面又普遍的完整的持久层解决方案。它提供了一个可扩展的框架，允许Java开发者与各种数据服务进行交互，包括数据库、web服务、OXM、企业信息系统（EIS）。详细介绍 »"
+    },
+    {
+        "title": "Style Inventory for Sketch：设计稿样式整理插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/28c8edde3d61a0411511d3b1866f0636.png",
+        "detail": "无论你是从干净整洁的文件开始，还是手头上已经有一堆繁杂的文件需要去收拾，本插件（样式库）都可以帮到你。它可以给你一个已用样式的清晰的概览，也可以帮你合并类似重复的图层。详细介绍 »"
+    },
+    {
+        "title": "UIkit：轻量级、模块化的前端框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/4231d9eaab91ba2cb90fbd8ca4d59afc.png",
+        "detail": "UIkit是一款轻量级的模块化前端框架， 可用于开发快捷、强大的web界面。详细介绍 »"
+    },
+    {
+        "title": "YACP：另一种CSS预处理器",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/657bb3f773a7b6a3381514b8d6433174.png",
+        "detail": "YACP（Yet Another CSS Preprocessor），即另一款CSS预处理器。可以自动添加浏览器前缀属性，支持规范集绑定语法，无风险继承其他规则，支持W3C样式CSS变量语法等。详细介绍 »"
+    },
+    {
+        "title": "RxJava：通过JVM可观察序列构建异步和基于事件的程序",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/36a288c336fb9a9ed1cae094cd789f92.png",
+        "detail": "RxJava 是一个基于Reactive Extensions的JVM实现框架，它通过观察者队列的做法，将消息的异步处理与基于事件的编程进行很好地结合。详细介绍 »"
+    },
+    {
+        "title": "Skala Color：为设计师和开发者而生的优质取色工具",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/c81f0e152aab4698bae35e03827928c7.png",
+        "detail": "Skala Color是一款设计师和开发者而生的优质取色工具。长相跟OS X的字体面板很像，以至于长期被苹果忽视这样一款贴心的UI设计师必备工具。详细介绍 »"
+    },
+    {
+        "title": "Colllor：配色方案生成工具",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/3291ba82f9aa3f50e6f10ae370898fba1.jpg",
+        "detail": "Colllor是一个为自选颜色生成配色方案的工具，简单、快速，只需输入你要的颜色，或者点几下鼠标，获取配色方案易如反掌。详细介绍 »"
+    },
+    {
+        "title": "Dropwizard：一个简洁的RESTful Web框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/846b4d1288ee1f41bae9fa1d76d864e7.png",
+        "detail": "Dropwizard跨越了开发库与框架的界限，旨在为Web应用所需的功能提供高性能、可靠的实现。Dropwizard将这些功能抽象为可重用的开发库，因此应用程序可以保持精简与专注，从而大大减少产品面世的时间以及维护负担。详细介绍 »"
+    },
+    {
+        "title": "Awaitility：用来同步异步操作的DSL",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/70eb69fba901957cd3321ebff16ab699.png",
+        "detail": "测试异步系统是一件困难的事情。不仅因为测试中需要处理线程、超时和并发问题，而且测试代码要验证的目标会受到这些因素影响。Awaitility为测试异步系统提供了一种简洁易读的表达方式。详细介绍 »"
+    },
+    {
+        "title": "Jetty：小巧的轻量级应用服务器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/95fd4402e9128e7936ba7906753bf7df.png",
+        "detail": "Jetty是一个Web server 和 javax.servlet 容器，支持HTTP/2、WebSocket、OSGi、JMX、JNDI、JAAS和许多其他组件。这些开源组件可用作商业用途并进行发布。详细介绍 »"
+    },
+    {
+        "title": "PostCSS：通过JS插件来转换CSS",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/486853e0688aff4a2840de750b734be9.png",
+        "detail": "PostCSS是一款通过JS插件来转换CSS的工具。这些插件能帮你校验你的CSS代码、转换未来的CSS语法、支持变量和混写、以及内联图片等等。PostCSS被Google、Twitter、阿里巴巴、Shopify等多家业界大公司高层使用，其中自动前缀插件是PostCSS最受欢迎预处理器之一。详细介绍 »"
+    },
+    {
+        "title": "Sass：成熟、稳定且强力的专业CSS扩展语言",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/60a0760a4fae35d172c4ad799f8615ac.png",
+        "detail": "Sass是CSS的一款扩展包，为其添加了嵌套规则、变量、混写、选择器继承等更多功能。换言之，它是一款命令行工具或web框架插件，让标准的CSS格式美观。详细介绍 »"
+    },
+    {
+        "title": "inuit.css：基于Sass的面向对象CSS框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/118480e665bd870b2b37a958cbf2e666.png",
+        "detail": "inuitcss基于Sass开发，采用的BEM命名，是一款强力的面向对象CSS框架，有着很好的可扩展性和高性能。它只占很小的空间（入门包gzip只有1KB），可以根据你的需求扩展或缩减。详细介绍 »"
+    },
+    {
+        "title": "PNChart：一个简单漂亮的iOS图表库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/b04df396d71632245ef8de45d2336048.gif",
+        "detail": "PNChart是一个简单漂亮的动画图表库，Piner 和 CoinsMan 的 iOS 客户端中使用了这个框架。详细介绍 »"
+    },
+    {
+        "title": "JTChartView：完全可定制的轻量级图表解决方案",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/5cd0ee14aa3679ef9dba39c05e7053c3.png",
+        "detail": "JTChartView 是一个完全可定制的轻量级图表解决方案，通过绘制曲线并使用渐变色填充曲线下面的空间，然后得到一个漂亮的图表。详细介绍 »"
+    },
+    {
+        "title": "ios-charts：一个强大的iOS图表框架",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/c943ab54adf168c146b2c8d4308de4e0.png",
+        "detail": "ios-charts是一个强大的图表框架，是 MPAndroidChart 在 iOS 上的移植。详细介绍 »"
+    },
+    {
+        "title": "HSL Plus：非常方便的色彩调整工具",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/2b03848f4104c987a339d1de2adecabe.jpg",
+        "detail": "HSL Plus是款非常方便的色彩调整工具，支持对图像色相、饱和度、明度的基础调整以及更多进阶功能。详细介绍 »"
+    },
+    {
+        "title": "Quartz：强大的任务调度库",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/65925c51050385381007a0b38caa8527.png",
+        "detail": "Quartz是开源的任务调度Java库。功能丰富，可以集成到小到单机应用，大到电子商务系统的任何Java应用中。详细介绍 »"
+    },
+    {
+        "title": "NumPy：Python科学计算的基石",
+        "authorName": "Daetalus",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/dc79e6f8c2f96a1b1429441463c0232f.png",
+        "detail": "NumPy是一个Python模块，这是Python科学计算基石，许多其他Python科学计算模块都在NumPy的基础上开发而来（如Scikit-learn、Matplotlib等）。详细介绍 »"
+    },
+    {
+        "title": "CSS的命名方式：BEM（区块、元素、修饰符）",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/9fabd601a0a39ae15193c512b102d925.png",
+        "detail": "BEM是一种CSS的命名方式，对区块、元素、修饰符等进行了详细介绍。详细介绍 »"
+    },
+    {
+        "title": "如何精简TrelloCSS架构",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/89f582c217724185634faa1844296a66.png",
+        "detail": "这篇文章介绍了Trello CSS的改进历程，从工具、文件架构、模块、JS、样式等角度进行了实践总结与介绍。详细介绍 »"
+    },
+    {
+        "title": "Chardet：通用编码检测器",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/f2c9db001ad24f9b795f4d4c4601688d.png",
+        "detail": "Chardet是一个通用编码检测器，支持ASCII、UTF-8、UTF-16等多种编码格式。详细介绍 »"
+    },
+    {
+        "title": "encrypted-core-data：使用 SQLClipher 对 CoreData 的 SQLite 存储进行加密",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/93bb239fece09a41dcc895549dc2c4e7.png",
+        "detail": "encrypted-core-data将Core Data存储的内容进行编码。除了初始化方法，其他用起来就和Core Data一样，并且可以用于已经使用了Core Data的项目中。详细介绍 »"
+    },
+    {
+        "title": "Apache Flink：快速、可靠的大规模数据处理引擎",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/2d31c9855e056189b01dc54d04afe686.png",
+        "detail": "Apache Flink是分布式大数据处理平台，其核心是提供数据分发、通信、分布式计算的流媒体数据流引擎。详细介绍 »"
+    },
+    {
+        "title": "Apache Hadoop：在商用硬件集群上用来进行大规模数据存储的开源软件框架",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/111207e6b9c6b973d12b0300cacd19a6.png",
+        "detail": "Apache™ Hadoop®是一个可靠的、可扩展、分布式计算的开源软件项目，通过计算机集群使用简单的编程模型对大型数据集进行分布式处理。其本身被设计成在应用层检测和处理故障，在计算机集群之上提供高度可用的服务，并且能够自动将失败的任务重新分配。详细介绍 »"
+    },
+    {
+        "title": "python-recsys：一款实现推荐系统的python库",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/768a03d0c1bf96ce66579c707cbc779d.png",
+        "detail": "python-recsys是一个用来实现推荐系统的python库。详细介绍 »"
+    },
+    {
+        "title": "CoreStore：使用Swift包装Core Data框架",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/4b4fcfd7b0ee30ff645ae052d2851eea.png",
+        "detail": "CoreStore是一个使用Swift包装Core Data的框架，可以提供更好的安全性和便利性。详细介绍 »"
+    },
+    {
+        "title": "Medium的CSS 方案：简直完美",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/3eeb09805dd101a31d62a4482b06c918.png",
+        "detail": "这里介绍 medium.com 的CSS方案及其演化历程。详细介绍 »"
+    },
+    {
+        "title": "YouCompleteMe：一款Vim代码补全引擎",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/4f15ef8efb3985d36bd29a219fa87404.png",
+        "detail": "YouCompleteMe是一款用于Vim的快速的，根据你的输入进行模糊搜索的代码补全引擎。详细介绍 »"
+    },
+    {
+        "title": "IngeoSDK：对CoreLocation的扩展和封装",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/5fba6afa573f3329655cd83311672aba.png",
+        "detail": "IngeoSDK对CoreLocation进行了扩展和封装，为iOS（Swift以及Objective-C）提供了高效的位置管理。通过使用用户的运动状态、行为、速度和所在位置，运用特有的算法，动态持续调整CoreLocation的轨迹配置参数。从而实现实时优化精度以及最小电量消耗的效果。详细介绍 »"
+    },
+    {
+        "title": "HTML/CSS Code Guide by Mark Otto：Mark Otto 编写的HTML/CSS代码风格指南",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/0d0efdcb75df17208864246ec03f06e5.png",
+        "detail": "这里介绍了Mark Otto 编写的HTML/CSS开发标准，指导我们编写更灵活、稳定、持久的代码。详细介绍 »"
+    },
+    {
+        "title": "MotionKit：对Core Motion的包装",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/92379526df1d314b10433883eb7ccb1e.png",
+        "detail": "MotionKit是一款CoreMotion框架实用又简洁的的包装，并且全部使用Swift书写。Core Motion框架的作用是从设备硬件获取设备运动数据，并对获取到的数据进行了一层加工。数据来源可以是加速计、磁力仪和陀螺仪。详细介绍 »"
+    },
+    {
+        "title": "LocationKit：最先进的位置管理者",
+        "authorName": "朱亚光在push的日常",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/c0a9e20ac6c03765aa3783b2005b4566.png",
+        "detail": "SocialRadar公司的LocationKit SDK 是第一个替代iPhone官方的CLLocationManager的技术。以前你使用location manager的所有函数它这里都有，而且还增加了更先进的定位功能。详细介绍 »"
+    },
+    {
+        "title": "Proxitee：利用 iBeacons 和地理围栏创建近场感知应用",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/ffe4365e46ba348c1774172dfc64c628.png",
+        "detail": "Proxitee SDK这个库是建立在苹果的CoreLocation框架之上，Proxitee SDK为了帮助大家在开发使用iBeacon的app过程中省去搭建蓝牙环境的重复劳动时间。详细介绍 »"
+    },
+    {
+        "title": "Infinispan：针对缓存的高并发键值对数据存储",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/03c889c1fb59da04e8ec68a171105a65.png",
+        "detail": "Infinispan是一个基于内存来进行键值对存储的分布式存储工具，并且其数据格式可以完全自定义。它既可以作为一个Java库进行使用，也可以通过一系列主流的远程协议方式（HotRod、REST、Memcached 和 WebSockets）来提供独立的服务。与此同时，它还支持很多高级功能诸如事务机制、事件机制、查询以及分布式处理等。详细介绍 »"
+    },
+    {
+        "title": "Pytesseract：对Google Tesseract的一层python封装",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/79969c390e202252a534a859b035c36a.png",
+        "detail": "Python-tesseract是一款用于光学字符识别（OCR）的python工具，即从图片中识别出其中嵌入的文字。Python-tesseract是对Google Tesseract-OCR的一层封装。它也同时可以单独作为对tesseract引擎的调用脚本。详细介绍 »"
+    },
+    {
+        "title": "OWUProximityManager：一个方便的 iBeacon + CoreBluetooth 管理器",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/0adde568f8685aab2386f6c787eb7d46.png",
+        "detail": "OWUProximityManager通过iBeacons和CoreBlutooth检测和连接附近的设备。详细介绍 »"
+    },
+    {
+        "title": "Xlwt：Windows Office Excel表格生成库",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/2c2ae24a6a5e3f8d18d880f71533c206.png",
+        "detail": "xlwt是一个用于生成Microsoft Office Excel 95-2003版本的电子表格库。xlwt本身是使用纯Python编写，并且没有依赖于标准python发布版本的之外的任何包或者模块。详细介绍 »"
+    },
+    {
+        "title": "Vicinity：使用CoreBluetooth实现iBeacon功能",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/06/ecd3983aa42b994db7861775a7e7d12b.png",
+        "detail": "Vicinity使用的是CoreBluetooth来实现iBeacon功能，并不是CoreLocation。这一尝试的缘由是CoreBluetooth支持后台模式，CoreLocation并不能。详细介绍 »"
+    },
+    {
+        "title": "Awesome-iOS-Animation：iOS动画项目集合",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/38026ed22fc1a91d92b5d2ef93540f20.png",
+        "detail": "Awesome-iOS-Animation是一个iOS动画项目集合，包含了各种效果的开发库及效果展示。详细介绍 »"
+    },
+    {
+        "title": "AnimationEngine：在iOS上方便地构建高级自定义动画",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/ec789f96934b02ae464a4168b97ab75d.png",
+        "detail": "INTUAnimationEngine从基于block的系统UIView动画API中获得灵感，提供了友好的使用CADisplayLink执行自定义动画的接口。它能够使交互式动画（通常由用户交互启动，比如平移或捏合手势）以给定的持续时间自动执行，也能够使动画在运行的每一帧都执行回调方法。详细介绍 »"
+    },
+    {
+        "title": "iText：一个易于使用的PDF函数库",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/94e9061fd2eee704d5e78642eca52674.png",
+        "detail": " iText 几乎能够在商业、IT等等若干领域发挥强大的作用——通过其灵活的PDF编程引擎，它能帮你优化发票处理流程，保证文件档案的有效性，保证事项的顺利进行。不仅如此，iText还提供了强大的企业级应用支持与配套的网络社区服务。详细介绍 »"
+    },
+    {
+        "title": "flyingsaucer：XML/XHTML和CSS 2.1渲染器",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/a1f655defedd3298cf9aba08fb59f4fb.png",
+        "detail": "Flying Saucer是一个纯Java库，它能够基于CSS2.1语法，对任意的XML（或XHTML）进行渲染，输出成Swing界面，PDF文档和图片等。基于LGPL开源协议发布。详细介绍 »"
+    },
+    {
+        "title": "百度鹰眼轨迹iOS SDK：一套能够进行绑路纠偏的轨迹开发工具包",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/0caa34dd10f6ff56b3aceb8cdaff337b.png",
+        "detail": "百度鹰眼轨迹iOS SDK是一套基于iOS 8.0及以上版本设备的轨迹服务应用程序接口。配合  鹰眼轨迹服务 ，您可以开发适用于移动设备的轨迹追踪应用，轻松实现实时轨迹追踪、历史轨迹查询、地理围栏报警等功能。详细介绍 »"
+    },
+    {
+        "title": "VisualVM：JVM可视化工具",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/72066a8e8f2e25ac9bf25e69912cd642.png",
+        "detail": "VisualVM是集成了一些JDK命令行和具有轻量分析能力的可视化工具。详细介绍 »"
+    },
+    {
+        "title": "javatuples：支持Java中使用“tuples”的类库",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/ad3f9102bcdf395ac127f40a55423fa3.png",
+        "detail": "javatuples是最简单的Java类库之一。设计目标是提供一组在Java中可以使用“tuples”的类。详细介绍 »"
+    },
+    {
+        "title": "Apache Tomcat：针对Servlet和JSP的Java应用服务器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/c051d792e33a1202722da9fa31590732.png",
+        "detail": "Apache Tomcat™ 是一个针对Servlet和JSP健壮性好且适用性强的开源应用服务器。它实现了Java Servlet、JavaServer Pages、Java表达式语言和Java WebSocket技术。详细介绍 »"
+    },
+    {
+        "title": "Fluent：便捷的Swift动画框架",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/515572de9cf2d8b8847555013829b7c9.png",
+        "detail": "Fluent是一个便捷的Swift动画框架。详细介绍 »"
+    },
+    {
+        "title": "Canvas：无需代码就可以在Xcode中显示动画",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/5d5860a4141f93b3f904fc122360ea27.png",
+        "detail": "Canvas是一个无需代码就可以在Xcode中创建动画的工具库，很大程度的降低了iOS开发中创建动画的难度，对设计人员和开发人员都有很大帮助。详细介绍 »"
+    },
+    {
+        "title": "Spring：简化动画开发的Swift iOS动画库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/3bf15610b0d6ff0d6fb342f16cc83699-1024x575.jpg",
+        "detail": "Spring是一个Swift编写的iOS动画库，简化了iOS动画开发。详细介绍 »"
+    },
+    {
+        "title": "jquery.transit：提供流畅CSS3变换和过渡效果的jQuery插件",
+        "authorName": "linacre",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/0fd998b50c73eaccea57afccd6d54f3e.png",
+        "detail": "jQuery Transit是jQuery库中一个帮助你对CSS元素进行变形和设置过渡状态的插件。详细介绍 »"
+    },
+    {
+        "title": "pop：物理效果交互的iOS和OS X动画库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/712b0e63935f5d942fe806ef4f8215ea.png",
+        "detail": "Pop是一个适用于iOS、tvOS和OS X的可扩展动画库。除了基本的静态动画，Pop还支持弹跳动画和阻尼动画，从而能够实现逼真的物理效果交互动画。详细介绍 »"
+    },
+    {
+        "title": "RadialLayer：类似Youtube Music的可点击元素动画",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/debb503279c058477c3217fbfaa33e8a.png",
+        "detail": "RadialLayer能够通过非常简单的配置给所有可点击的元素添加动画，而且这些动画在GPU上执行，效果惊艳。详细介绍 »"
+    },
+    {
+        "title": "Cheetah：Swift2编写的便捷iOS动画库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/c9ed9dd76553768c29316c11610024b7.png",
+        "detail": "Cheetah是一个使用Swift 2.0编写的iOS动画库，可以针对任意属性实现动画效果，因为它使用了简单的CADisplayLink run loop来改变执行动画的属性。详细介绍 »"
+    },
+    {
+        "title": "百度地图iOS SDK：一套功能丰富的地图开发工具包",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/0fdc7a93b9932f827325eecdf065fc4d.png",
+        "detail": "百度地图iOS SDK是一套功能丰富的地图开发工具包，不仅提供展示地图的基本接口，还提供POI检索、路径规划、地图标注、离线地图、定位、周边雷达等丰富的LBS能力。详细介绍 »"
+    },
+    {
+        "title": "AudioBus：下一代App到App实时音频路由",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/965ba9ee50bcfb3270755aa506be559f-300x224.png",
+        "detail": "Audiobus是一个软件开发工具包，具有相应的控制器应用程序，允许iOS应用程序将音频流向另一个应用程序。我们可以通过Audiobus像音频线那样将应用程序作为模块连接起来，建立精密高雅的音频制作和处理配置。详细介绍 »"
+    },
+    {
+        "title": "im4java：ImageMagick命令行Java接口",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/905f7eab4a227c7e46efb69cdafc59aa.png",
+        "detail": "im4java为ImageMagick提供了更好的Java面向对象接口，是对JMagick的补充。详细介绍 »"
+    },
+    {
+        "title": "Thumbnailator：高质量缩略图Java开发库",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/4354f9bee311b73dba5bc34269eb9147.png",
+        "detail": "Thumbnailator是一个生成缩略图的Java开发库。但Thumbnailator的功能不仅限于此，它还支持在图片中嵌入水印、调整水印透明度、旋转水印等功能。详细介绍 »"
+    },
+    {
+        "title": "AudioKit：强大的iOS音频合成、处理分析工具集",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/c0504b762cecd43c8b3ebb4cce6097fe.png",
+        "detail": "AudioKit是一个用于在OS X、iOS、tvOS开发中进行音频合成、处理和分析的工具集。详细介绍 »"
+    },
+    {
+        "title": "EZAudio：iOS/OSX音频可视化框架",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/f6701d8de2eae762f68ab8073d8cd01a.png",
+        "detail": "EZAudio是一个用于iOS和OS X开发的音频可视化框架。详细介绍 »"
+    },
+    {
+        "title": "LingPipe：自然语言处理工具包",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/50efa36f2db7abcd084820bc24c92277.png",
+        "detail": "LingPipe是运用计算机语言学处理文本信息的工具包，可用于如下任务：在新闻中查找人名、组织或位置，自动分类Twitter搜索结果，提供查询的正确拼写建议等。详细介绍 »"
+    },
+    {
+        "title": "YourKit Java Profiler：商业Java分析器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/f26fd045750ab68f257b484ce023bcf7.png",
+        "detail": "CPU与内存分析从不简单，要提供智能分析更非易事。YourKit 提供的解决方案可以在应用开发和产品部署阶段为Java开发者提供无与伦比的好处。详细介绍 »"
+    },
+    {
+        "title": "bounce.js：创建有趣的CSS3动画",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/50e88fc5cf4dcd40bc8afa5ba52f209e.png",
+        "detail": "Bounce.js 是一个漂亮的关键帧动画生成工具和类库，基于CSS3实现。bouncejs.com提供的工具支持生成静态关键帧，不需要使用额外JavaScript代码，如果想在你的应用程序中动态生成这些代码，可以使用Bounce.js类库。详细介绍 »"
+    },
+    {
+        "title": "QHSpeechSynthesizerQueue：AVSpeechSynthesizer队列管理系统",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/1d12ee376fded49d4a4917323f8d8e65.png",
+        "detail": "QHSpeechSynthesizerQueue是一个针对AVSpeechSynthesizer（iOS文本发音）的队列管理系统。详细介绍 »"
+    },
+    {
+        "title": "novocaine：应用于OSX和iOS的高性能音频框架",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/129eb95b8d985f7c4e27d0aac0354566.png",
+        "detail": "iOS和OSX应用开发中的音频框架CoreAudio功能强大，但复杂繁琐，使用起来非常困难。在CoreAudio框架下需要几天才能实现的功能，使用novocaine框架只需要几行代码就能完成。详细介绍 »"
+    },
+    {
+        "title": "LatencyUtils：延迟测量和报告工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/5d9f219a423942bb3bbc4cf1619543f0.png",
+        "detail": "LatencyUtils是一个延迟统计追踪开发包，提供了很多有用的追踪工具。在进程场景记录过程中，可以避免明显的遗漏从而给出恰当的处理。详细介绍 »"
+    },
+    {
+        "title": "JProfiler：一款商业Java分析器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/953b3ae51a57f1e77b93eaef93b24083.png",
+        "detail": "JProfiler直观的UI可以帮助你分析和解决性能瓶颈，阻止内存泄露并且找到线程问题。详细介绍 »"
+    },
+    {
+        "title": "StreamingKit：AudioPlayer/AudioStreamer的无缝扩展",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/44e5e046d4228063c8491bd92ded157c.png",
+        "detail": "StreamingKit是一个适用于iOS和Mac OSX的音频播放流媒体库。StreamingKit提供了一个简洁的面向对象API，用于在CoreAudio框架下进行音频的解压和播放（采用硬件或软件编解码器）处理。详细介绍 »"
+    },
+    {
+        "title": "sound-fader-ios：Swift开发的AVAudioPlayer声音控制器",
+        "authorName": "天道",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/e6baec1bbf51fefba56f97631a7a4ed9.png",
+        "detail": "sound-fader-ios是一个iOS的实用工具，通过AVAudioPlayer实现对声音渐入和渐出的控制。这个工具可以设定变化的时间和速度。速度可以从线性变化到对数级。详细介绍 »"
+    },
+    {
+        "title": "DynamicReports：精简版JasperReports",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/1bc35809e200fbd8c5c9541a61c93b3b.png",
+        "detail": "DynamicReports是一套基于JasperReports的Java报表工具。它可以创建一个动态报表，而且整个过程无需任何界面。你可以在非常短的时间里完成一个报表文档的创建，而且它不仅能够展示、打印，甚至还能导出成很多通用的文档格式比如PDF、Excel、Word等等。详细介绍 »"
+    },
+    {
+        "title": "JMH：JVM基准测试工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/3507ce382496984756e3ddb84bf2a542.png",
+        "detail": "JMH是一个Java工具，用于构建、运行和分析基于JVM的基准测试。基准测试可以用Java或其他语言编写。详细介绍 »"
+    },
+    {
+        "title": "jHiccup：提供平台中JVM暂停的日志和记录",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/18c511e9326021c3b28128e0b6034d06.png",
+        "detail": "jHiccup是一个非侵入式插装工具），可以记录程序运行中的抖动，包括Java应用程序中经常发生的暂停以及其它影响应用持续执行的操作系统或硬件故障等。详细介绍 »"
+    },
+    {
+        "title": "Blade：一款简洁优雅、微内核设计的Java Web框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/81ddd87c34275c9631c31ee7fba0dc2b.png",
+        "detail": "Blade是一款简洁优雅、微内核设计的 Java Web 框架。详细介绍 »"
+    },
+    {
+        "title": "Spark：构建Java Web应用的REST微框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/176c7fdd727cc81c1610b306b02ea3f5.png",
+        "detail": "Spark是一个轻量级Java Web框架，可用来快速开发Web应用。它为Java Web应用开发者提供一种纯Java实现。详细介绍 »"
+    },
+    {
+        "title": "Swagger：描述、生产、消费和可视化RESTful Web Service的规范框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/7111dd84c81adb6074b849fae960d94e.png",
+        "detail": "Swagger是一个规范且完整的框架，提供描述、生产、消费和可视化RESTful Web Service。旨在打造一个标准的、语言无关REST API接口。详细介绍 »"
+    },
+    {
+        "title": "RestX：基于注解处理和编译时源码生成的REST框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/655369128a5c60e8b0c52f0f313ff268.png",
+        "detail": "RestX是一个轻量级、模块化、功能丰富、超级快速的开源Java REST框架。详细介绍 »"
+    },
+    {
+        "title": "RestExpress：类型安全的Java REST客户端",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/4d0c2525f8d331be0c752eb842b64a1a.png",
+        "detail": "RestExpress是一个极简主义的Java框架，可以快速创建可扩展、非容器的RESTful微服务。详细介绍 »"
+    },
+    {
+        "title": "PicketLink：为Java应用提供安全和身份认证管理",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/4dfaeb517819ea7268ac0616d650b2c0.png",
+        "detail": "PicketLink是一个针对Java应用进行安全和身份认证管理的大型项目，简化了安全和认证管理流程。它遵循友好的Apache v2开源许可发布。已与Keycloak项目合并！详细介绍 »"
+    },
+    {
+        "title": "Keycloak：为浏览器应用和RESTful Web Service提供SSO和IDM集成",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/674e91222ebaf9ad4abd713e20f6392e.png",
+        "detail": "Keycloak基于OAuth 2.0、Open ID Connect、JSON Web Token（JWT）和SAML 2.0规范，为浏览器应用和RESTful Web Service提供SSO和IDM集成。详细介绍 »"
+    },
+    {
+        "title": "Myth：编写纯CSS而不用担心浏览器加载缓慢",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/21032a4618ac7c0b27b079600e451bad.png",
+        "detail": "Myth是一款预处理器，如同CSS的填充剂，帮你编写纯净CSS的同时，无需担心老旧浏览器兼容或者其他规范支持问题。详细介绍 »"
+    },
+    {
+        "title": "Stylus：用于node.js的直观、强健、极具特色的CSS语言",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/d256603fa86fbd27cdc2576dceee0760.png",
+        "detail": "Stylus是个变革性的新语言，用高效又富有活力的方式生成CSS，同时支持普通和缩进两种CSS书写样式。详细介绍 »"
+    },
+    {
+        "title": "Pure.css：一套可用于所有Web项目的小型响应式CSS模块",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/6ed5e4a45063d307cfef3fc2a40e0ec9.png",
+        "detail": "Pure.css是一套小型响应式CSS模块，可用于所有Web项目。详细介绍 »"
+    },
+    {
+        "title": "Materialize：基于Material Design的现代响应式前端框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/f3ec9be439eb0585c4fd58cc3ebc1c83.png",
+        "detail": "Materialize是一款基于Material Design设计的前端框架，支持自适应，现代感十足。详细介绍 »"
+    },
+    {
+        "title": "FlatBuffers：高效利用内存的序列化函数库",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/61aa58c50fdfbf96955e90fc92e1a563.png",
+        "detail": "FlatBuffers 是一个高性能而且跨平台的序列化类库，它能够兼容C++、C#、Java、JavaScript、PHP和Python（C和Ruby也即将被兼容）。FlatBuffers最早是被Google开发出来的，用在游戏开发和其他对性能要求很高的应用上。详细介绍 »"
+    },
+    {
+        "title": "Material Design Lite：Material Design风格网站框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/56706eca8cf9ff43c95c2c9adf61eb1a.png",
+        "detail": "Material Design Lite 能帮你制作Material Design样式的网站。它不依赖任何JS框架，针对于跨设备使用优化，并自动降低性能适配旧版浏览器，快速体验手到擒来。详细介绍 »"
+    },
+    {
+        "title": "Semantic UI：友好且功能强大的html框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/b7b88db1f0984f7124f9d17665c4f611.png",
+        "detail": "Semantic友好的HTML的开发框架，能帮你制作美观、支持自适应布局的网站。详细介绍 »"
+    },
+    {
+        "title": "RESTEasy：经过JAX-RS规范完全认证的可移植实现",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/5d2641eb8f1a722cab8d5ed11974c0c4.png",
+        "detail": "Resteasy是JBoss.org的一个开源项目，是使用Java开发客户端和服务器的RESTful应用和服务的高产出率的框架。它主要是一个JAX-RS实现，在项目的代码库中能找到一些实验性代码。详细介绍 »"
+    },
+    {
+        "title": "Skeleton：一个超简单的响应式模板",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/aeec1d3aa18dc5ddb9002b04600fbd15.png",
+        "detail": "Skeleton是个非常容易上手，又支持响应式的模板组件。当需要搭建小的网站项目，或者不想用那些累赘的大框架时，你可以尝试用Skeleton来解决。详细介绍 »"
+    },
+    {
+        "title": "SDURLCache：为iPhone/iPad应用提供本地磁盘缓存的URLCache子类",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/391ff3297fb63f5dcc3d6510d98ad1a1.png",
+        "detail": "SDURLCache是一个为iPhone/iPad应用提供本地磁盘缓存的URLCache子类。详细介绍 »"
+    },
+    {
+        "title": "Awesome Cache：让人喜爱的本地缓存",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/9b3f010ede86139a9b9d6348d2824626.png",
+        "detail": "Awesome Cache是一个让人喜爱的本地磁盘缓存（使用 Swift 编写）。基于NSCache发挥最好的性能，而且支持单个对象的缓存期限。详细介绍 »"
+    },
+    {
+        "title": "Mattress：iOS Web离线缓存",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/676f77fa65007a37e8b0b253fca5ab9f.png",
+        "detail": "Mattress 是一个能够将整个网页缓存到本地磁盘的 Swift 框架，有别于标准的 NSURLCache ，但又能与其相互协作。Mattress 能够预缓存网页内容，不仅可以提高加载速度，还可以实现网页内容的离线浏览，非常有用。详细介绍 »"
+    },
+    {
+        "title": "Carlos：简单灵活的缓存",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/6c7c7b764a1bde709fe6c8efd7f04a55.png",
+        "detail": "Carlos 是一个简单灵活的缓存，使用 Swift 语言编写，可用于 iOS 8+ 、WatchOS 2 、tvOS 和 Mac OS X 应用程序。详细介绍 »"
+    },
+    {
+        "title": "jBPM：业务流程管理套件",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/ee424f3960e309e22452aa11dc0ad3dd.png",
+        "detail": "jBPM是灵活的业务流程管理套件。致力于构建开发人员和业务分析人员之间的桥梁。传统的BPM引擎的用户局限于非技术人员。jBPM提供的流程管理功能受到业务人员和开发人员的推崇。详细介绍 »"
+    },
+    {
+        "title": "JSPatch：Objective-C与Javascript桥接库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/99f2c1dadd980ffc60e652a9d6dab848.png",
+        "detail": "JSPatch 可以让你用 JavaScript 书写原生 iOS APP，通常用于修补 iOS APP。只需在项目引入极小的引擎，就可以使用 JavaScript 调用任何 Objective-C 的原生接口，获得脚本语言的优势：为项目动态添加模块，或替换项目原生代码动态修复 bug。详细介绍 »"
+    },
+    {
+        "title": "Voucher：tvOS App认证开发库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/7c868d58ac3b941485376d39025c7a0f.png",
+        "detail": "Voucher是一个方便 tvOS App 通过 iOS 设备上相应的程序来认证的开发库。详细介绍 »"
+    },
+    {
+        "title": "AspectJ：面向切面的Java扩展",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/ad19cd0e19dfce1d489458d1c72dca4f1.png",
+        "detail": "AspectJ是一个无缝的面向方面的Java™语言的扩展。兼容Java平台，易于学习和使用。编译器和开发工具都开源。依赖于Java1.3或更高版本JDK才能运行。详细介绍 »"
+    },
+    {
+        "title": "Apache PDFBox：PDF创建和操作工具集",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/d9b79374e6cba074f58e46dc5d96bb0c.png",
+        "detail": "Apache PDFBox工具集是一个用来处理PDF文档的Java开源第三方库。这个项目允许创建新的PDF文档，操作已存在的文档，以及从文档中提取内容。Apache PDFBox也包括一些命令行的工具，遵循Apache License 2.0发布。详细介绍 »"
+    },
+    {
+        "title": "DCAnimationKit：水波效应动画集合",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/10164020cda60303bfb1109f6e8522f8.png",
+        "detail": "DCAnimationKit是一个简单的iOS水波效应动画集合，所有添加动画的方法都写在 UIView+DCAnimationKit 类目里，添加动画简单便捷。详细介绍 »"
+    },
+    {
+        "title": "RZTransitions：iOS View Controller转场动画库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/03/50a63161276e7842abf9883decd39c5d.png",
+        "detail": "RZTransitions是一个适用于iOS 7.0及以上操作系统的视图控制器转场动画库，可以实现平滑流畅的转场动画效果，而且使用简便。详细介绍 »"
+    },
+    {
+        "title": "auto:源代码生成器集合",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/5b699c408121c115683038a261d0119c.png",
+        "detail": "Auto是google开源出来的专门针对Java的一款源代码生成器。详细介绍 »"
+    },
+    {
+        "title": "Apache Spark：一个快速大规模数据处理的通用引擎",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/36166166e78fadb215106362c8658b45.png",
+        "detail": "Apache Spark是一种快速、通用的集群计算系统，为Java、Scala,、Python和 R 提供了高级的API及优化引擎。详细介绍 »"
+    },
+    {
+        "title": "DeepLearning4J：Java和Scala的深度学习开源库",
+        "authorName": "邢敏",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/b776beb580c0fc63e6421d2a20886064.png",
+        "detail": "Deeplearning4j（以下简称DL4J）是Java和Scala环境下的开源、分布式深度学习项目，DL4J集成了Hadoop and Spark，设计用于运行在分布式GPU和CPU上的商业环境。详细介绍 »"
+    },
+    {
+        "title": "TheAmazingAudioEngine：一个iOS音频处理框架",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/65fc6fe362e7d35c6819cb92f4be540e.png",
+        "detail": "TheAmazingAudioEngine是基于高效低延迟的 Core Audio 远程输入输出系统，由 Audiobus 和 Loopy 的开发者 Michael Tyson 创建的。可以让你免于重复造轮子。详细介绍 »"
+    },
+    {
+        "title": "Hermes：基于Kafka的快速可靠的消息代理",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/b17a73076fd323106c7d10f4da7781e6.png",
+        "detail": "Hermes是基于Kafka的消息传递框架，拥有Kafka快速的、可扩展的特点，提供较高的吞吐量，以及一对多的订阅方式.详细介绍 »"
+    },
+    {
+        "title": "three.js：JavaScript 3D 库",
+        "authorName": "linacre",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/3652f87582bc97c7c99fb189bea05090.png",
+        "detail": "three.js的目标是创建一个轻量级的简单3D库，换句话说，即使初学者也能使用。这个库提供了，，CSS3D以及 WebGL渲染器。详细介绍 »"
+    },
+    {
+        "title": "DeepDive：从非结构化数据建立结构化信息并集成到已有数据库的工具",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/09/7e165f929c871077eb309b9ac8fe92fa.png",
+        "detail": "DeepDive是一个混乱数据中抽取有效数据的系统。DeepDive帮助从非结构化数据中抽取数据并整合到已有的结构化数据库中。详细介绍 »"
+    },
+    {
+        "title": "MagicalRecord：优秀的 CoreData 便捷存取框架",
+        "authorName": "张发白",
+        "imgUrl": "https://camo.githubusercontent.com/76d9d6cfaf2d5e8818abba2fb6ab6fc252ba2f94/687474703a2f2f636c2e6c792f696d6167652f3165333333453357325933452f646174616d6f64656c6c65725f75736572696e666f67726f75702e706e67",
+        "detail": "MagicalRecord是受Ruby on Rails 中 Active Record fetching便捷性的启发而成的库 。MagicalRecord的目标是精简 CoreData 相关代码，清晰、简单、单行获取数据，需要对请求进行优化的时候，仍可以修改NSFetchRequest。详细介绍 »"
+    },
+    {
+        "title": "LGBluetooth：简化程序中 CoreBluetooth 相关代码",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/53350d356b66fbbe00cc2ab638c1fa5e.png",
+        "detail": "LGBluetooth是一个基于block的，对 CoreBluetooth 进行了封装的轻量级库。详细介绍 »"
+    },
+    {
+        "title": "peewee：一款轻量级python ORM",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/63e3a4310ea77f5b5ea592f95d3c65e0.png",
+        "detail": "peewee是一款轻量级、丰富的ORM（Object Relation Mapping，对象关系映射），支持postgresql、mysql和sqlite。详细介绍 »"
+    },
+    {
+        "title": "biicode：一个现代的 C 依赖管理器",
+        "authorName": "Anloper",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/1a979a165584f87b42758a787389f59b.png",
+        "detail": "Biicode是一个多平台的C/C++依赖管理器，通过Biicode可以管理你希望在项目中使用的库文件（如Curl、Catch、Fann、OpenSSL、OpenCV、POCO、Boost、Libuv、GTest等）。详细介绍 »"
+    },
+    {
+        "title": "SSDataKit：消除使用CoreData产生的样板代码",
+        "authorName": "张发白",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/580c6769cafe0c9e1603f5bd4390d933.png",
+        "detail": "每当需要使用Core Data 都需要写大量模版代码，现在我们使用SSDataKit消除使用 CoreData 产生的样板代码。详细介绍 »"
+    },
+    {
+        "title": "BluetoothKit：使用 BLE 在 iOS/OSX 设备之间通讯",
+        "authorName": "西西里的仔仔",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/728ab1c848f97110b8d93cc779805a6d.png",
+        "detail": "BluetoothKit 尝试通过Swift来实现一个更简单、新式、基于闭包的API，以降低一些简单蓝牙传输任务的工作量详细介绍 »"
+    },
+    {
+        "title": "PhpStorm：一个商业PHP IDE",
+        "authorName": "欧w",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/701cfd1799922fe2c85e5a4db5d507ef.png",
+        "detail": "PhpStorm 适合处理 Symfony、Drupal、WordPress、Zend Framework、Laravel、Magento、CakePHP、Yii 等其他框架。详细介绍 »"
+    },
+    {
+        "title": "Twisted：一个基于事件驱动的网络引擎",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/0843382b9c1c834aab7e985ed5ac86af.png",
+        "detail": "Twisted是基于事件驱动的网络引擎框架，支持Python2.7和3.3+。详细介绍 »"
+    },
+    {
+        "title": "jOpenDocument：处理OpenDocument格式文档",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/db9e49a4b9fb762fdffbf77222cf63e5.png",
+        "detail": "jOpenDocument 是一个免费的开发库，通过它可以不借助 OpenOffice.org 打开 Open Document。jOpenDocument 采用GPL协议开源。详细介绍 »"
+    },
+    {
+        "title": "SpringSource Tool Suite：基于Eclipse的Spring应用开发环境",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/1713264f6e00dce8f83d1f5d26789fea.png",
+        "detail": "Spring Tool Suite（STS） 是一个基于Eclipse针对Spring应用量身定制的开发环境。提供了开发 Spring 应用必须的编码、调试、运行和部署功能。STS 在最新的 Eclipse 发布版本基础上集成了 Pivotal tc 服务器、Pivotal Cloud Foundry、Git、Maven、AspectJ等必要的工具。详细介绍 »"
+    },
+    {
+        "title": "JDK 9：JDK 9的早期访问版本",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/08/f90844b88a1e79844f57908527b90a0c.png",
+        "detail": "JDK 9发布前的早期版本、源码及发布进展信息。详细介绍 »"
+    },
+    {
+        "title": "Jinja2：一个纯Python实现的模板引擎",
+        "authorName": "beyondwu",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/4bd4bb166757b8fc5105f9b320b72051.png",
+        "detail": "Jinja2是纯python编写的模板引擎，它和Django类似提供non-XML语法，除此之外还支持内联表达式和一个可选的沙箱环境。Jinja2遵守BSD开源协议。详细介绍 »"
+    },
+    {
+        "title": "Smack：一个开源的XMPP用于即时通讯的客户端类库",
+        "authorName": "oneDay",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/07/95521b01eb19f3b3c1e03f4f64ab946b.png",
+        "detail": "Smack是一个用于和XMPP服务器通信的类库，可以实现即时通讯和聊天。Smack是Spark项目的核心。详细介绍 »"
+    },
+    {
+        "title": "CSS Hat：让图层一键生成CSS3代码",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/1a8254f13e8a57a97aefcd8db069b228.png",
+        "detail": "CSS hat 2 是一款PS插件，能帮助用户把图层一键转换为CSS3代码。支持Photoshop CC 2014/2015，兼容Mac、Windows平台详细介绍 »"
+    },
+    {
+        "title": "NetMQ：.NET轻量级消息队列",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/f7ac02109738ea6a25ae8aecc545e0a4.jpg",
+        "detail": "NetMQ是一个.NET轻量级消息队列框架，是大名鼎鼎的ZeroMQ的.NET版本详细介绍 »"
+    },
+    {
+        "title": "NPOI：.NET开源Office文档读写类",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/29c3b58f20885c66f07e3e7b693c5988.png",
+        "detail": "NPOI是一个.NET开源Office文档读写类，它兼容多种Office版本文档格式（xls、xlsx等），兼容性强。详细介绍 »"
+    },
+    {
+        "title": "Quartz.NET：.NET平台任务计划与调度程序",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/30fdc5046236cd1cff0790168cb9c0e6-1024x515.jpg",
+        "detail": "Quartz.NET是一个适用于多种场景的任务计划调度框架，由Quartz移植而来。详细介绍 »"
+    },
+    {
+        "title": "SuperSocket：可扩展的 Socket 服务器框架",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/28c8edde3d61a0411511d3b1866f0636-1024x590.jpg",
+        "detail": "SuperSocket是一个易用、可拓展的Socket服务器框架，使用它可以快速创建服务器Socket程序而不需要处理很多底层细节。详细介绍 »"
+    },
+    {
+        "title": "Quake2：划时代的始祖级3D第一人称射击游戏",
+        "authorName": "骷髅",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/15b6d12262f92fc0590bd6ab39aa0f38-300x225.jpg",
+        "detail": "Quake作为第一人称3D射击游戏的始祖之一，这个游戏系列的名字现在已经很少被人提起了。2001年12月21日，Quake II 3.19版本的完整源代码正式以GPL协议开源。随后出现了很多以其为基础的商业和免费游戏详细介绍 »"
+    },
+    {
+        "title": "Oven：PS图层导出插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/762af65bdf68fff0e94a1e9d247ec297.jpg",
+        "detail": "Oven是一款专用于PS图层导出的插件，支持Photoshop CC/2014/2015版。详细介绍 »"
+    },
+    {
+        "title": "ctypes：Python标准库中与C的交互方式",
+        "authorName": "Daetalus",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/05/b232f81b2f26ebc9139c86cf36f83e0a.png",
+        "detail": "ctypes 是CPython标准库的一部分，用户可以直接通过import ctypes来使用。`ctypes`让用户能够调用位于动态链接库（DLL或共享库）中的C函数，同时在Python中提供与C兼容的数据类型，如c_int、c_bool等。ctypes能够访问大多数主流操作系统（比如：Windows上的Kernel32，*nix上的libc）的纯C接口，并能够定义自己的复杂类型，如struct和union。详细介绍 »"
+    },
+    {
+        "title": "OpenJDK：JDK开源实现",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/5eaef760b9d0f74fc17af0bce84bf2d1.png",
+        "detail": "OpenJDK（开放Java工具集）是一个免费开源的Java SE实现。最初在2006年由Sun微系统公司发起。实现基于GNU GPL协议（附带例外条款）实现。除了例外条款中的情况，与Java class开发库相关的组件都必须遵守GPL协议发布。自JDK 7开始，OpenJDK已经成为了Java SE 的官方参考实现。详细介绍 »"
+    },
+    {
+        "title": "Metrics：通过JMX或HTTP发布参数，并且支持存储到数据库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/bd3d93f25e9ac4c1ee139f382c9ab403.png",
+        "detail": "Metrics是一个Java开发库，可以很好地监视代码在生产环境下的行为。Metrics提供了一组强大的工具集，可以用多种方法测量生产环境下的关键组件。详细介绍 »"
+    },
+    {
+        "title": "New Relic：性能监测商业工具",
+        "authorName": "贺贺",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/880129db5ea102ad8802e65abcb088bd.png",
+        "detail": "你的客户和业务越来越多地依赖复杂的应用和基础设施。New Relic使用实时数据把它们集中在一起。New Relic商业套件使用 APM、Synthetics、Plugins、和 Servers提高你的应用程序性能。详细介绍 »"
+    },
+    {
+        "title": "Logstash：日志文件管理工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/e7c829eee2d6496a05c492f805a2938a.png",
+        "detail": "Logstash是一个开源数据搜集引擎，支持实时数据管道功能。Logstash可以动态整合分散的数据源，根据你的选择对数据标准化。根据不同的高级下游分析和可视化用例对数据进行梳理。详细介绍 »"
+    },
+    {
+        "title": "Kibana：分析及可视化日志文件",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/2e2dfdfe5a05936d094052f00a30ca08.png",
+        "detail": "Kibana是一个针对Elasticsearch的开源分析及可视化平台，用来搜索、查看交互存储在Elasticsearch索引中的数据。使用Kibana，可以通过各种图表进行高级数据分析及展示。详细介绍 »"
+    },
+    {
+        "title": "Reactor：构建响应式快速数据应用程序的开发库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/97c87c3f9b906b4b48e173ed658d65be.png",
+        "detail": "Reactor是第二代响应式开发库，支持构建基于JVM的非阻塞式应用程序，遵循Reactive Streams规范。详细介绍 »"
+    },
+    {
+        "title": "Logback：旨在取代 log4j 的日志组件",
+        "authorName": "光光头去打酱油",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/0af220155c6c628455f4514517cdcc8e.png",
+        "detail": "Logback 是一款旨在取代 log4j 的日志组件，它的实现更快速、测试更充分、文档更丰富。详细介绍 »"
+    },
+    {
+        "title": "Kamon：监测JVM上运行的应用程序",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/8bba6954726bd236e9f9fdabb7c1bf5d.png",
+        "detail": "Kamon是一个有着良好响应性的JVM应用程序的监控工具。在开发中，我们往往喜欢使用那些类型安全的响应性平台框架（Scala、Akka、Spray 或者 Play），不过只要你使用的是JVM，Kamon就可以帮你监控到你要的信息。详细介绍 »"
+    },
+    {
+        "title": "JavaMelody：性能监测和分析工具",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/cfbecc89b7d1cfb0041bf989283b388c.png",
+        "detail": "JavaMelody的目标就是在QA和生产环境监测Java或Java EE应用。它不是用来模拟来自用户请求的工具，它是根据应用程序的使用，衡量和统计实际操作信息的工具。详细介绍 »"
+    },
+    {
+        "title": "HK2：轻量级动态依赖注入框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/11c3a0de6d99c3ddd1f56474da03e227.png",
+        "detail": "HK2是一个轻量级动态依赖注入框架。它是JavaSE环境中JSR-330的一个实现，提供了控制操作和自动加载服务到容器中的API。详细介绍 »"
+    },
+    {
+        "title": "EPPlus：开源Excel2007/2010文件操作工具",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/5fd91107c00103c0daf4f9cb01c7186d.jpg",
+        "detail": "EPPlus是开源的Excel2007/2010文件操作工具，它支持.xlsx文件，具有高性能，操作简便等特点。详细介绍 »"
+    },
+    {
+        "title": "Json.NET：.NET平台高性能JSON框架",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/b19cd5a57d08f9fda230776492a1798d.png",
+        "detail": "Json.NET是一个流行的高性能.NET平台JSON框架，可以支持JSON与.NET对象相互转化的序列化与反序列化过程，对WEB开发尤其有用。详细介绍 »"
+    },
+    {
+        "title": "SignalR：.NET极简实时Web工具",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/476de7f3ee433cd863eeaadc590900541.jpg",
+        "detail": "SignalR是一个.NET开源实时web库，它使用WebSockets、长轮询等技术完成服务器与浏览器的双向通信。详细介绍 »"
+    },
+    {
+        "title": "MVVM Light Toolkit：轻量化的MVVM框架",
+        "authorName": "Podolski",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/476de7f3ee433cd863eeaadc59090054.jpg",
+        "detail": "MVVM Light Toolkit是一个MVVM框架，它使用C#编写，为快速创建符合MVVM模式的程序提供了一种方便的途径。详细介绍 »"
+    },
+    {
+        "title": "SciPy库：Python的科学计算工具集",
+        "authorName": "Daetalus",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/697fee2d2c17cab06effa744c45f208b-1024x439.png",
+        "detail": "Scipy库构建于NumPy之上，提供了一个用于在Python中进行科学计算的工具集，如数值计算的算法和一些功能函数，可以方便的处理数据。详细介绍 »"
+    },
+    {
+        "title": "OOCSS：面向对象CSS的介绍",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/55cd441db6d79c47f4188dfc9d4cecac.jpg",
+        "detail": "我将解决CSS这一被忽视的问题，引入面向对象的CSS这一概念，以及它如何帮助我们提高网页的性能和可维护性。详细介绍 »"
+    },
+    {
+        "title": "Apache Camel：基于企业集成模式（EIP）的开源集成框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/7e9abc767849195083179581595a2c49.png",
+        "detail": "Apache Camel 是一个功能强大的开源集成框架，基于企业集成模式（EIP）提供了强大的Bean集成功能。详细介绍 »"
+    },
+    {
+        "title": "Aeron：高效可扩展的单播、多播消息传递工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/d2225d0f696afe85ee14aca80d3e407a.png",
+        "detail": "Aeron是一个可靠高效的UDP单播、UDP多播和IPC消息传递工具。性能是消息传递中的关键。Aeron的设计旨在达到高吞吐量、低开销和低延迟。Aeron采用简单二进制编码（SBE），力求达到更好的消息编解码性能。详细介绍 »"
+    },
+    {
+        "title": "Time4J：日期、时间、间隔Java库",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/99cd2d255f0d4f5521fa12f7d1aeb337.png",
+        "detail": "Time4J是java.util.Date、java.util.Calendar和java.text.SimpleDateFormat等旧的Java类的高端、完整的替换。该项目也作为JodaTime和JSR-310的首选替代品。详细介绍 »"
+    },
+    {
+        "title": "WordPress CSS Coding Standards：WordPress 的 CSS 代码标准",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/becf2975c84f4db6a2d137a541de4ef3.png",
+        "detail": "像其他代码标准一样，从核心代码到主题再到插件，WordPress 的 CSS 代码标准是为了提供给Wordpress开源社区和项目建立基准，让他们更好地进行合作和评估。其中的代码和文件，就像某一个团队出品的一样。还有一个重要的点，WordPress 的 CSS代码应该是可读、有意义、一致以及别致的。详细介绍 »"
+    },
+    {
+        "title": "Mallet：NLP工具，支持文档分类、聚类、主题建模",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/f8bdbcfcfdeaacc54a310c2a6e337c7f.png",
+        "detail": "MALLET是一个Java开发包，提供了统计学自然语言处理、文档分类、聚类、主题建模、信息提取和其它机器学习文本应用。详细介绍 »"
+    },
+    {
+        "title": "Apache OpenNLP：处理类似分词等常见任务的工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/32eae6ec9716a75b415e2351c5f6a57d.png",
+        "detail": "Apache OpenNLP开发库是一个机器学习开发库，用于自然语言处理。OpenNLP支持常见的NLP任务，比如分词、断句、词性标注、命名实体抽取、组块分析、解析和指代消解。通常这些任务用来提供高级文本处理服务。OpenNLP还支持基于机器学习的最大熵和感知器功能。详细介绍 »"
+    },
+    {
+        "title": "PSD Cleaner：找到和修复PSD错乱图层的PS插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/e3a02704ee75f5482bd79912a52a6b26.png",
+        "detail": "PSD Cleaner是个Photoshop插件，能让你轻松地查找并修复PSD里杂乱的图层。详细介绍 »"
+    },
+    {
+        "title": "Cell：PhotoShop中的智能对象控件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/82585114ea4d559957e5d029dd668a35.png",
+        "detail": "Cell：PhotoShop中的智能对象控件，一组能让你更好地处理多个智能对象的脚本文件。详细介绍 »"
+    },
+    {
+        "title": "JasperReports：一个复杂的报表引擎",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/ef6481312a5cacbdce02ca063cb5cd23.png",
+        "detail": "JasperReports是一个流行的开源报表引擎，完全用Java编写。可以对来自各种数据源的数据进行展示，生成精确到像素的文档。可以查看、打印，导出为各种格式的文档，支持HTML、PDF、Excel、OpenOffice 和 Word等格式。详细介绍 »"
+    },
+    {
+        "title": "Layout Wrapper：一个实用的Photoshop布局修饰插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/613181d3d6e76e98518e9d2214f58fd2.png",
+        "detail": "Layout Wrapper是一个好用的Photoshop图像转浏览器显示的布局插件。详细介绍 »"
+    },
+    {
+        "title": "uniVocity-parsers：速度最快功能最全的CSV开发库之一",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/2ad964744740ccc0eb7cd382d465a82b.png",
+        "detail": "uniVocity-parsers是一组可靠快速的Java解析器集合，包含多种文件类型的处理接口，为开发新解析器提供一个坚实的框架。详细介绍 »"
+    },
+    {
+        "title": "Sketch Measure：目前最好用的标注插件",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/ec6f14f53a2a90a77d4218bcb2b5773b.png",
+        "detail": "Sketch Measure是一款可用于标注和设计规范的工具，支持Sketch 3.5版以上。详细介绍 »"
+    },
+    {
+        "title": "LoganSquare：基于Jackson流式API，提供对JSON解析和序列化",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/2b7fac15fdd95bc3df8a7688946e0ab2.png",
+        "detail": "LoganSquare是Android平台最快的JSON解析和序列化库。它基于Jackson的流式API，性能可以达到GSON和Jackson Databind库的400%甚至更多。LoganSquare在编译时注解处理生成代码，达到比其他方法更快地JSON解析和序列化速度。详细介绍 »"
+    },
+    {
+        "title": "Fastjson：Java高性能JSON库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/e23dd95fba65cb493245191428f783dc.png",
+        "detail": "Fastjson是一个Java语言编写的高性能功能完善的JSON库。它采用一种“假定有序快速匹配”的算法，把JSON Parse的性能提升到极致，是目前Java语言中最快的JSON库。Fastjson接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web输出、Android客户端等多种应用场景。详细介绍 »"
+    },
+    {
+        "title": "JCommander：命令行参数解析器",
+        "authorName": "zhiguo",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/385e3f095fd44601843a40338066830c.png",
+        "detail": "JCommander是一个小巧的解析命令行参数的Java框架。详细介绍 »"
+    },
+    {
+        "title": "BEMSimpleLineGraph：优雅的折线图框架",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/04/f3f1fe5d393c2570b07141790c41975b.png",
+        "detail": "BEMSimpleLineGraph 是一个简单易用的 iOS 图表库，它致力于实现折线图的高度可定制和互动。它采用了与 UITableView 和 UICollectionView 相似的数据源和代理模式，可以轻松地创建出漂亮的折线图。详细介绍 »"
+    },
+    {
+        "title": "Bouncy Castle：多途加密开发库，支持JCA Provider",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/fcf3fd42b670af7176f0a9fc40eaf143.png",
+        "detail": "Bouncy Castle是一个支持JCA Provider的多途加密开发库，由一个名为Bouncy Castle Inc的澳大利亚慈善组织维护。提供了加解密API、JCE实现、ASN.1加密对象读写、证书生成等功能。详细介绍 »"
+    },
+    {
+        "title": "JScience：用来进行科学测量和单位的一组类",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/f5ade6ccf9a689d1401f81b395f8d74f.png",
+        "detail": "JScience是用来进行科学测量和单位的一组类。具有自动启用多核处理， 减少垃圾回收、降低内存占用并提升可扩展性等特点。详细介绍 »"
+    },
+    {
+        "title": "JGraphT：支持数学图论对象和算法的图形库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/02/f757f346a40a7c9398ac7eac981bebb2.png",
+        "detail": "JGraphT支持数学图论对象和算法的免费Java图形库。详细介绍 »"
+    },
+    {
+        "title": "DataMelt：用于科学计算、数据分析及数据可视化的开发环境",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/852b384b7615cd1bf7a813d3533ad2c2.png",
+        "detail": "DataMelt是一个面向科学家、工程师和学生的免费数学软件。可以进行数值计算、统计、符号运算、数据分析及可视化。详细介绍 »"
+    },
+    {
+        "title": "Undertow：高性能Web服务器",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/f3152beddb3407d449d3d7fd755e4abf.png",
+        "detail": "Undertow是基于Java NIO的高性能Web服务器。详细介绍 »"
+    },
+    {
+        "title": "MessagePack：一种高效二进制序列化格式",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/90202307f1ccf10691367effde3ac9e0.png",
+        "detail": "MessagePack是一种高效二进制序列化格式。可以在多种语言中进行快速数据交换，比如JSON格式等。这种格式小巧快速，支持超过50种编程语言和环境。详细介绍 »"
+    },
+    {
+        "title": "FST：兼容JDK的高性能对象序列化开发库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/862330c47ec94188152644251565a72a.png",
+        "detail": "FST是Java快速序列化的简易替代者，序列化速度更快，对象变得更小。使用FST序列化时，对原来的代码改动非常小。详细介绍 »"
+    },
+    {
+        "title": "Kryo：快速、高效的序列化框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/7de2c7954bd8a8e358c6970560311d23.png",
+        "detail": "Kryo是一个快速高效的Java对象序列化框架，旨在提供快速、高效和易用的API。无论文件、数据库或网络数据Kryo都可以随时完成序列化。Kryo还可以执行自动深拷贝、浅拷贝。详细介绍 »"
+    },
+    {
+        "title": "JSON Accelerator：写Model只需要一分钟",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/ac034f1f747437d8fcbe748d1a9c4787.png",
+        "detail": "JSON Accelerator是一款帮助开发者获取数据、验证数据、生成Model对象的工具软件。对于JSON数据的处理非常实用，而且操作简单方便，对于提高开发效率有很大帮助。详细介绍 »"
+    },
+    {
+        "title": "config：针对JVM语言的配置库",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/db2bf140623ca8ce5f81c714c0981aa4.png",
+        "detail": "config是一个针对JVM语言的配置库。config：针对JVM语言的配置库详细介绍 »"
+    },
+    {
+        "title": "WildFly：前身是JBoss，支持众多Java EE功能的应用服务器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/b5a17a753c5d1170b656d8418a363258.png",
+        "detail": "WildFly前身是JBoss，是一个灵活的轻量级应用程序托管运行时，可用来构建令人惊叹的应用程序。详细介绍 »"
+    },
+    {
+        "title": "Wonderful：不仅仅是一个酷炫的颜色库",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/3c4eeef822505c61af611452eeb82a0c.png",
+        "detail": "Wonderful不仅是一个酷炫的颜色库，还有很多强大实用的功能，而且使用方便。详细介绍 »"
+    },
+    {
+        "title": "WebSphere Liberty：轻量级、模块化应用服务器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/8f3e79980d5d0aa660b93c8b4857cc7c.png",
+        "detail": "WebSphere Liberty是一个快速、动态、易于使用的Java EE应用程序服务器。对开发者而言是理想的工具，同时也适合生产环境、公司内部或者云端使用。详细介绍 »"
+    },
+    {
+        "title": "Blueprint：高效CSS开发框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/5d3c17a0015e83aa50be41b8692283fc.png",
+        "detail": "Blueprint是一个致力于节省你开发时间的CSS框架。简单易用的栅格系统、合理的排版、有用的插件、可打印的样式表预示着Blueprint可作为你项目的坚实基础。详细介绍 »"
+    },
+    {
+        "title": "Async Http Client：异步HTTP和WebSocket客户端",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/c6f67153d29d8e2d0c4f598c4daa3971.png",
+        "detail": "Async Http Client库简单易用，旨在让Java应用可以轻松执行HTTP请求和异步处理HTTP响应。同时也支持WebSockets协议。详细介绍 »"
+    },
+    {
+        "title": "Thymeleaf：旨在替换JSP支持XML文件的模板引擎",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/27d577c88485fbbfbfea95bfbf70e81c.png",
+        "detail": "Thymeleaf是一个Java模板引擎开发库，可以处理和生成HTML、XML、JavaScript、CSS和文本，在Web和非Web环境下都可以正常工作。它更适合处理Web应用程序中的视图层，但是也支持在离线环境处理各种格式的文件。遵循Apache 2.0许可发布。详细介绍 »"
+    },
+    {
+        "title": "Handlebars.java：逻辑简单、支持语义扩展的Java模板引擎",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/f2fa28d415b98a3e724ea1cbabcf06ca.png",
+        "detail": "Handlerbars.java 是handlebars的一种Java编程入口。Handlebars能够让你毫无压力地，并且高效地构建语义模板。遵循Apache 2.0开源协议发布。详细介绍 »"
+    },
+    {
+        "title": "Alcatraz：超实用的Xcode插件管理工具",
+        "authorName": "魏川程",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/2de07b7951945ade50860b01707681e2.png",
+        "detail": "Alcatraz是一个Xcode插件、模板以及颜色配置的管理工具。通过它，我们可以非常方便的管理Xcode插件，简洁实用。详细介绍 »"
+    },
+    {
+        "title": "lodash：模块化、高性能实用工具库",
+        "authorName": "LeuisKen",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/a828faf61315374953277bc839316fcc.png",
+        "detail": "lodash是一个提供模块化、高性能和额外功能的实用工具库。详细介绍 »"
+    },
+    {
+        "title": "Optimizilla：在线压缩图像的工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/52ee58ee83ae0b2fe0ac1111695cad86.jpg",
+        "detail": "Optimizilla：这个在线图像优化器使用最佳优化和压缩算法来达到最小尺寸的JPEG和PNG图像，同时保证最佳质量/尺寸比。在多数情况下优化器可以实现优于其他软件和工具的最佳图像压缩比。详细介绍 »"
+    },
+    {
+        "title": "Colourcode：简单易用的在线配色工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/f3b28efa7c1800336deb5aa77977a2fc.jpg",
+        "detail": "Colourcode是一个在线颜色搭配工具，基于网站设计进行配色。对于网页设计师来说，网站的颜色搭配是一件非常重要的事情，合理的颜色搭配会给人视觉上的享受，如何才能够更好的匹配网站颜色就需要有专业的工具来帮助设计师完成了。详细介绍 »"
+    },
+    {
+        "title": "mini-xml：不依赖C标准库的小型XML读写库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/991eda283f08d435a23cc307e2e32036.png",
+        "detail": "Mini-XML是一个小型XML开发库，可在应用中读写XML和类XML的数据文件。支持读写 UTF-8编码的XML文件和字符串，以及UTF-16内容的读取。详细介绍 »"
+    },
+    {
+        "title": "libxml2：兼容多种标准的轻量级XML解析器",
+        "authorName": "Hover Winter",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/073999c0722f6336ee681c4fafe7d379.png",
+        "detail": "Libxml2 是为Gnome项目开发的C语言版 XML 解析器和工具集，遵循MIT开源协议发布。Libxml2以可移植性强闻名，在下面系统中构建和使用时不会碰到严重问题：Linux、Unix……详细介绍 »"
+    },
+    {
+        "title": "Expat：面向流的C语言XML解析器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/9b6820c3f45ce707f56c71eeafbdb3a6.png",
+        "detail": "Expat是一个C语言编写的XML解析库。它是一个面向流的解析器，应用程序可以对解析中发现的XML元素注册处理函数。详细介绍 »"
+    },
+    {
+        "title": "pica：使用JS进行快速高品质图像缩放",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/049c64d2291fc2592743cc51c28f17e6.png",
+        "detail": "pica是paco作者的一个高速Javascript实验。目标是在浏览器中以最快的速度进行高品质图像缩放。遵循MIT开源协议发布。详细介绍 »"
+    },
+    {
+        "title": "lena.js：拥有滤镜和实用功能的图像处理库",
+        "authorName": "linacre",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/89cec7a1eecdde8c3a033bf5fbd9a343.png",
+        "detail": "Lena.js是一个拥有滤镜和实用功能的图像处理库。详细介绍 »"
+    },
+    {
+        "title": "960 Grid System：简化Web开发工作流程",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/758965b65d986d5d131c040f94d3fff1.png",
+        "detail": "960 Grid System致力于简化web开发流程，通过提供基于960px的常用尺寸达成简化目标。详细介绍 »"
+    },
+    {
+        "title": "Placemat：快速生成占位图片器",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/9d29fdf9751acc3e3b5d0c41148bc7cb.png",
+        "detail": "开启 Placemat 网站后，可以在网站上方看到一些 Placemat 产生的占位图片范例，它产生的效果大致看起来就像这些图片，能够自由调整要产生的图片尺寸，以及设定中间显示的文字或覆盖颜色（Overlays）。详细介绍 »"
+    },
+    {
+        "title": "Colorfavs：优秀在线配色工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/6baf5daa82610fba8dfdca6fdbbd4c60.jpg",
+        "detail": "Colorfavs：主要用于上传图像并获取图像颜色，功能和 Pictaculous、Color hunter 配色工具类似，它的体验还是不错的，比如界面设计简洁，可以浏览优秀颜色搭配、收藏配色方案功能、拖拽上传图像抓取颜色配色等等，都是不错的功能。详细介绍 »"
+    },
+    {
+        "title": "Truth：Google的断言和命题框架",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/3883a376fe2dd156436830be8db57d27.png",
+        "detail": "Truth 是一个测试框架，可以改进测试用例以及错误日志的可读性，而且可侦测型更强。不仅如此，它对自定义类型也有很好的扩展性。详细介绍 »"
+    },
+    {
+        "title": "WireMock：Web Service测试桩和模拟",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/0aa7ef880abad1bc9fcac10b003f0446.png",
+        "detail": "WireMock是一个针对Web Service测试桩和模拟函数开发库。WireMock会实际创建一个HTTP服务器，测试代码对其连接后进行测试，提供针对测试桩的请求验证、代理/拦截、记录/回放以及故障植入。既可以在单元测试中使用，也可以部署到一个独立的测试环境。尽管WireMock采用Java编写，但你仍然使用多种编程语言通过JSON API调用。详细介绍 »"
+    },
+    {
+        "title": "Unitils：模块化测试函数库，支持单元测试和集成测试",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/8f11cd8eab8193bb01710f1985289f53.png",
+        "detail": "Unitils是一个开源开发库，旨在让单元测试、集成测试更简单、更易于维护。详细介绍 »"
+    },
+    {
+        "title": "Spock：兼容JUnit框架，支持衍生的Groovy范的语言",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/900681533879d62b832c313781cb5b86.png",
+        "detail": "Spock是一个针对Java和Groovy应用程序的测试和规范框架。详细介绍 »"
+    },
+    {
+        "title": "Selenide：Selenium WebDriver驱动的自动化测试框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/e26fda83afd42f3c4ffecf02fa5631c3.png",
+        "detail": "Selenide是一个由Selenium WebDriver驱动的自动化测试框架。使用Selenium无需考虑怎样关闭浏览器、处理超时和StaleElement异常、搜索相关的日志信息以及调试测试代码。只需要关心业务逻辑，剩下的教给Selenide完成就好！详细介绍 »"
+    },
+    {
+        "title": "Complexity：一个测量 C 代码复杂性的工具",
+        "authorName": "贺贺",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/e25a874d54fde0f81d1f5353beab9ff2.png",
+        "detail": "Complexity是一个测量 C 代码复杂性的工具，把除了代码路径以外影响人们理解能力的因素考虑进来，提供更加精致的复杂性分析。详细介绍 »"
+    },
+    {
+        "title": "REST Assured：为REST/HTTP服务提供方便测试的Java DSL",
+        "authorName": "连乐",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/8dc42ae79103c526b0b7b270a621cf6f.png",
+        "detail": "在Ruby和Groovy这样的动态语言中进行REST服务测试和校验一直都是非常困难的。REST Assured 让这些工作在Java中可以轻松完成。详细介绍 »"
+    },
+    {
+        "title": "Grizzly：Java NIO框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/17961f72caf46f08e1d712ea8d1d1a70.png",
+        "detail": "在Java新I/O API（NIO）出现之前，开发可扩展的服务器应用比较困难。Grizzly NIO框架的设计初衷便是帮助开发者更好地利用Java NIO API，构建强大的可扩展的服务器应用，并提供扩展框架的组件：Web框架（HTTP/S）、WebSocket、Comet等。详细介绍 »"
+    },
+    {
+        "title": "Bazel：来自Google的构建工具，可以快速、可靠地构建代码",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/380c2ea52ea4fe94943d9e5a954f5b07.png",
+        "detail": "Bazel是Google自己的构建工具，现在公开了Beta版本。Bazel内置了对构建客户端和服务端软件的支持，包括Android和iOS平台客户端应用程序。它也提供了一个可扩展的框架，可以用来开发你自己的构建规则。详细介绍 »"
+    },
+    {
+        "title": "PSD Covers：渲染设计作品的PSD模型模板",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/783f083c8a87d2022641c482cf8883db.png",
+        "detail": "PSD Covers是一个免费的资源站点，不是Web应用程序或复杂的软件，在这里你可以下载到一套Photoshop动作，它提供PSD实体模型模板来渲染你的设计，以及高分辨率的仿3D产品拍摄。详细介绍 »"
+    },
+    {
+        "title": "Mockuuups：各种优质的PSD展示模型",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/67171100abf149d23c3d337e7fd1acbe.png",
+        "detail": "Mockuuups：各种优质的PSD展示模型。已有25000名设计师加入，可永远享受优质设计资源。包含iPhone、Apple Watch、Macbook、iPad各型号以及AndroidPSD样机，不是全部免费的哦。详细介绍 »"
+    },
+    {
+        "title": "JADE：Java多租户系统框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/ca123e8c5c67e2e4d8f09aa45da7057f.png",
+        "detail": "JADE （Java代理开发框架）是一个非常全面的Java软件框架，通过一个FIPA规范中间件和开发调试工具简化了多租户系统实现。JADE基于LGPL协议开源发布。详细介绍 »"
+    },
+    {
+        "title": "Apache JMeter：Web应用负载功能测试工具",
+        "authorName": "superXiaoFan",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/1829faa27007ab66fdca8caed1be2542.jpg",
+        "detail": "Apache JMeter是一款开源、为测试负载功能与性能而设计的100%纯Java应用程序。最初它设计用于测试Web应用程序，但现在已经扩展出其他的测试功能。可以用来做静态和动态资源的性能测试，包括Webservices（SOAP/REST）、网络动态语言（PHP、Java、ASP .NET、Files等）、 Java对象、数据库和Queries、FTP服务器等等。详细介绍 »"
+    },
+    {
+        "title": "JNA：无需编写JNI代码就可以使用原生开发库",
+        "authorName": "javayrf",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/8f9d6022388f0b5a1ef1452712548a47.png",
+        "detail": "JNA是一种无需编写JNI代码就可以使用原生开发库的技术。此外，还为常见系统函数提供了接口。详细介绍 »"
+    },
+    {
+        "title": "Guava：Google的Java核心库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/dd920b1cbbb1b0f5b196076d24850981.png",
+        "detail": "Guava项目包含了很多Java项目开发中依赖的Google核心库：集合、缓存、基础类型支持、并发库、通用注解、字符串处理、I/O等等。详细介绍 »"
+    },
+    {
+        "title": "Druid：一款开源数据分析工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/68e4f0380eeb4132b34a7aeed9e34355.png",
+        "detail": "Druid 是一个为在线分析处理（OLAP）事件数据而设计的开源数据存储分析工具。详细介绍 »"
+    },
+    {
+        "title": "crawler4j：轻量级多线程网络爬虫",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/20fc7dcfc30ffa496b2b94b134bd0160.png",
+        "detail": "crawler4j是Java实现的开源网络爬虫。提供了简单易用的接口，可以在几分钟内创建一个多线程网络爬虫。详细介绍 »"
+    },
+    {
+        "title": "Gephi：开放的可视化跨平台图形操作平台",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/98648e481c76400963eeb58d92e6405b.png",
+        "detail": "Gephi是一个广受赞誉的开源可视化及大型图表操作平台。Gephi可以在Windows、Mac OS X和Linux上运行，支持法语、西班牙语、日语、俄语、巴西葡萄牙语、汉语和捷克语。详细介绍 »"
+    },
+    {
+        "title": "Cryptomator：云文件加密工具",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/8690af561d66063ffc19c13858b6b96c.png",
+        "detail": "Cryptomator是一个支持多平台的云文件加密工具。为你存在云盘上的文件提供基于客户端的加密，防止你的云文件被未授权的访问。详细介绍 »"
+    },
+    {
+        "title": "CRaSH：Java开源shell",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/ce81fee47ea81ee70d35a6bcff218632.png",
+        "detail": "CRaSH是一个开放的Java开源shell。详细介绍 »"
+    },
+    {
+        "title": "args4j：Java命令行参数解析器",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/06bfc7038d1bb306841f2506c8b01942.png",
+        "detail": "args4j是一个小巧的Java开发库，可以方便地解析CUI（命令行接口）程序的输入参数或选项。args4j基于MIT协议开源，对其它项目没有任何依赖。详细介绍 »"
+    },
+    {
+        "title": "The Java Specialist’ Newsletter：每个月发布一篇Java高质量技术文章",
+        "authorName": "Jaler",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/25231854ef2e55bd633ca63ac2e7afb7.png",
+        "detail": "Java专家的实时通讯（The Java Specialist' Newsletter），Heinz Max Kabutz博士主持的Java技术博客，每个月发布一篇关于Java的文章。除此之外，还提供了Java技术培训、咨询等服务。详细介绍 »"
+    },
+    {
+        "title": "Apache Maven：一款开源软件项目管理工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/269dfc21075e4d0df4bb37a0c251dff9.png",
+        "detail": "Apache Maven是一个软件项目管理工具。基于项目对象模型(POM)的理念，它可以通过一段核心的描述信息来管理项目的构建、报告和文档信息。详细介绍 »"
+    },
+    {
+        "title": "Apache Commons：功能齐全的通用Java组件",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/7d3c7fe755d47aca42d13d2910103163.png",
+        "detail": "Apache Commons是一个Apache项目，提供了功能齐全的通用Java组件。包括对JDK API的扩展、各种压缩文件的操作、文件系统、网络通信、状态机等。详细介绍 »"
+    },
+    {
+        "title": "Deviant Muro：强大的在线绘图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/58a66bb5f8e0252fd7c5efe653091deb.jpg",
+        "detail": "Deviant Muro：是个很强大的工具。带有多种笔刷跟滤镜，能够进行比较精细的创作。不必安装FLASH 插件就可以使用。详细介绍 »"
+    },
+    {
+        "title": "Sketch Toy：一个出色的素描草图绘制工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/619a36f4d5462cced905106aaf3ade12.jpg",
+        "detail": "Sketch Toy：是一个出色的HTML5杰作，这个工具的开发者是Hakim El Hattab。你会发现用它画素描非常有趣，甚至还可以画3D草图。详细介绍 »"
+    },
+    {
+        "title": "Bezier Sketching：贝齐尔线条的绘制工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/b68b4872b87bfdca19feca9b764620f1.jpg",
+        "detail": "Bezier Sketching：是一种能非常漂亮的画出贝齐尔线条的绘制工具。你只需要点几下，拖拽几下，再加上你的想象力，你就能画出如上图那样有创意的图案。详细介绍 »"
+    },
+    {
+        "title": "Mr.Doob’s Harmony：铅笔风格的绘图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/b02ee911af2283fac4634153322496fe1.jpg",
+        "detail": "这个工具的画笔有点像铅笔，但有毛边，而且是不规则的细毛，在我这个不懂绘画的人来说，它更适合画抽象画。详细介绍 »"
+    },
+    {
+        "title": "Sketchy Structures：可以绘制梦幻般复杂的场景",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/1f9e6405c816c8608126e6631fddd715.jpg",
+        "detail": "Sketchy Structures：这个工具能让会绘制出复杂的由线条组成的各种结构，用它可以绘制梦幻般复杂的场景。你可以设置线条的密度以达到不同的效果。详细介绍 »"
+    },
+    {
+        "title": "Sketchpad：一款小巧好用的绘图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/78f78f9ee43c5a353029d51d24db9bd7.jpg",
+        "detail": "这款绘图工具看起来就更像是Photoshop了，它的工具栏，画笔，配色工具，历史记录都有点Photoshop的味道，它的确提供了很多可以替代Photoship的绘画功能，不信你就试一试。详细介绍 »"
+    },
+    {
+        "title": "Bomomo：一个在线的涂鸦工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/d5fc40cbfe8f1bebc739942b66bdd770.jpg",
+        "detail": "Bomomo更像是一个涂鸦工具，娱乐性很强，用它可以画出色彩缤纷的各种奇异图案、纹饰，它提供了很多种预设的涂鸦工具。详细介绍 »"
+    },
+    {
+        "title": "Icon Strike! ：测试iOS图标设计的站点",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/ed68d21d680afddc707d170aad09b4eb.png",
+        "detail": "上传图标，在你的iPhone中打开链接，安装图标。在这里，你可以在主屏幕上轻松地测试iOS图标设计。详细介绍 »"
+    },
+    {
+        "title": "Flinto：一款轻量、高效的综合性交互原型设计工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/798f1a5b156a242673e2e1ecfe4318d4.jpg",
+        "detail": "Flinto是一款轻量、高效的综合性交互原型设计工具，你可以使用它创建任何原型，从最简单的页面跳转到令人印象深刻的精美交互动效，无需任何代码也没有复杂的时间轴。详细介绍 »"
+    },
+    {
+        "title": "Mockupr：设计文件浏览器预览网站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/66f50bae08414ee65f99899fee86c6d9.png",
+        "detail": "做了一个网站样机？想看看它在浏览器中什么样子？Mockupr需要你的图像文件，并将其在线显示在浏览器中，给你和客户展现一个真实的网站。你的设计将会获得自己独特的链接，不会对外显示。详细介绍 »"
+    },
+    {
+        "title": "ITCSS：可伸缩可管理的健全CSS架构",
+        "authorName": "tzstone",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/7384151ed2205160f5333578bdfc49b7.png",
+        "detail": "ITCSS——“倒三角形CSS”是一种新的方法论。它将整个CSS项目想象成一个分层的、倒置的三角形。这个分层图形表示了一个能帮你以最有效、最节约的方式组织CSS的模型。详细介绍 »"
+    },
+    {
+        "title": "libcstl：标准C语言通用数据结构和常用算法库",
+        "authorName": "骷髅",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/57ad707e4d7db35ba8e722c0aa95e57c.png",
+        "detail": "libcstl是使用标准C语言编写的通用数据结构和常用算法库。它模仿STL的接口形式，包括序列容器、关联容器、容器适配器、迭代器、函数和算法。libcstl为C编程中的数据管理提供了方便简易的开发库。详细介绍 »"
+    },
+    {
+        "title": "Corange：基于SDL和OpenGL纯C语言3D游戏引擎",
+        "authorName": "骷髅",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/8269a79f4213a194c04b6dcb10640e35.png",
+        "detail": "Corange是一个用C语言和OpenGL标准编写的游戏引擎。在不牺牲性能前提下提供丰富的表现力、方便进行技术原型测试。它包括一个强劲的渲染器和一系列3D图形演示。详细介绍 »"
+    },
+    {
+        "title": "Scene Builder：JavaFX可视化布局开发工具",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/f39c688a9942287b216b83cf196c37a5.png",
+        "detail": "JavaFX Scene Builder提供了一个可视化布局环境，能让您快速设计用于JavaFX应用程序的用户界（UI），而无需编写任何代码。详细介绍 »"
+    },
+    {
+        "title": "NetBeans：优秀的模块化开发工具",
+        "authorName": "FakeHank",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/6d3b2d66de45c5a44e4ced723bd5dd04.png",
+        "detail": "NetBeans是一个旨在为使用开发者、用户及企业提供稳定强大的软件开发产品的开源项目。详细介绍 »"
+    },
+    {
+        "title": "Apache FOP：格式化对象处理器",
+        "authorName": "Hodur",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/6d434bd664bdef6d057b80b0cfb6d186.png",
+        "detail": "Apache FOP（格式化对象处理器）是一个使用XSL格式化对象（XSL-FO）和输出独立的打印格式化驱动。它是一个Java应用程序，读取格式化（FO）树并呈现结果页面到一个特殊输出。主要输出格式为PDF。详细介绍 »"
+    },
+    {
+        "title": "OrmLite：轻量级ORM框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/6126dc27eb32467b6a106fe4859e2f54.png",
+        "detail": "OrmLite针对“持久化Java对象到数据库”提供了一些轻巧的功能。同时避免了更标准的ORM包的复杂性和开销。详细介绍 »"
+    },
+    {
+        "title": "TomEE：Tomcat+Java EE",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/fa23be94e7da34cc2e8fe070849082ff.png",
+        "detail": "Apache TomEE（发音为”Tommy“）是一个通过Java EE 6 Web Profile认证的全功能的Apache容器，其中Apache Tomcat是最好的。Apache TomEE是从一个普通的Apache Tomcat压缩包上编译过来的。我们可以从Apache Tomcat开始，增加我们的jar文件然后打包。结果就是Tomcat具有了JavaEE的功能——TomEE。详细介绍 »"
+    },
+    {
+        "title": "Genson：Java开源JSON格式解析工具",
+        "authorName": "milly",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/9b0babf204ee9adb4934baea880ae262.png",
+        "detail": "Genson是一个完全的Java和JSON转换的类库，提供了全面的数据绑定、流操作等。基于Apache 2.0协议发布。详细介绍 »"
+    },
+    {
+        "title": "JavaFX：Swing的后继者，新一代富客户端应用程序解决方案",
+        "authorName": "UncleTim",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/1a506deed2be2bb2384fb00dd62c8b4a.png",
+        "detail": "JavaFX是Java在富客户端平台领域的进一步发展。JavaFX被设计成在企业应用程序开发中提供一个轻量级、具有硬件加速功能的Java GUI 快速开发平台。通过JavaFX，开发人员不仅可以在他们的应用程序中重用现有的Java库来保持已有的功能。甚至可以访问本地系统功能，无缝连接到基于服务器的中间件应用程序。详细介绍 »"
+    },
+    {
+        "title": "泼辣修图：一款专业的在线修图软件",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/610cf61c3fc1bee08effa158e3ce1e34.jpg",
+        "detail": "泼辣修图是一款专业的在线修图软件，打开网页就可以享受到专业的修图体验。泼辣修图也具有相应的移动版本，为苹果应用商店2015年度最佳应用之一。详细介绍 »"
+    },
+    {
+        "title": "Iconfont：阿里巴巴矢量图标库",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/3a4fd03cac9884efb16f48219bf3534c.jpg",
+        "detail": "Iconfont 国内功能很强大且图标内容很丰富的矢量图标库,提供矢量图标下载、在线存储、格式转换等功能。详细介绍 »"
+    },
+    {
+        "title": "WaterEffect：在线制作水波纹GIF动态图片",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/82401f2bc670ae9bab7bbd58746c11a0.jpg",
+        "detail": "WaterEffect 是一个简单的水中倒影图片在线生成器，上传图片，即可制作出水中倒影效果的gif图片。WaterEffect 无须注册直接使用，操作十分简单，选择一张本地的图片，上传后自动生成水中倒影的效果并以gif图片格式输出。详细介绍 »"
+    },
+    {
+        "title": "BEIZ Graphics：日本高品质的免费图片素材站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/fdb0c525c091083088502d99f6a4864f.jpg",
+        "detail": "BEIZ Graphics：高品质的免费图片素材，无版权限制，可个人和企业使用。下载方式是点击你要的图像大小链接，然后用右键另存为的方式来保存图片素材即可。详细介绍 »"
+    },
+    {
+        "title": "Photosku：日本高质量免费图片下载站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/502da8f95581f17e14af44d2a7638b06.jpg",
+        "detail": "Photosku：日本高品质图片站，无版权限制，个人和企业免费使用。图像数量挺多的，速度还算可以，图像点击大图后，直接右键另存为来下载。详细介绍 »"
+    },
+    {
+        "title": "無料写真素材：日本免费照片素材站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/fc6c7de8d6086287102ce2427ea3b7d4.jpg",
+        "detail": "無料写真素材：免费的高清照片素材，这个网站的分类比较特别，有红叶、樱花、海洋生物、动物等等的写真素材，面向个人、商务免费使用。详细介绍 »"
+    },
+    {
+        "title": "Photock：日本免费图片资源站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/1566df30334138354a554600c2afd190.jpg",
+        "detail": "Photock：免费图片资源达5000+，种类有很多，天空、水、河、海、草坪、火、山、动物、建筑、夜景、日本景点、日本历史文化图片等等，建议按分类搜查看。详细介绍 »"
+    },
+    {
+        "title": "ANTLR：复杂的全功能自顶向下解析框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/af857061076910ce6bae2516557d2a9e.jpg",
+        "detail": "ANTLR（ANother Tool for Language Recognition）是一个功能强大的Parser生成器，用来读取、处理、执行或翻译结构化文本或二进制文件。ANTLR被广泛地用于构建语言、工具和框架。ANTRL可以从语法生成Parser，用来构建和遍历分析树。详细介绍 »"
+    },
+    {
+        "title": "Apache Nutch：可扩展可伸缩的Java 网络爬虫",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/caabfca3abdd858b0951908c9660eaa2.jpg",
+        "detail": "Nutch是一个非常成熟的产品化网络爬虫。以Apache Hadoop数据结构为依托，提供了良好的批处理支持。 Nutch不仅具备了插件式和模块化优点，还提供了可扩展的功能接口。详细介绍 »"
+    },
+    {
+        "title": "Size Marks：免费的PS尺寸标注脚本",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/4bf29783ec6670ad65a382a84ada2d84.jpg",
+        "detail": "Size Marks 是用在Photoshop的一个自动标注尺寸脚本，可以方便设计师和前端人员在效果图上添加尺寸，很实用哦！虽然很早就有类似的工具，但大部分为收费，而这个是免费的！详细介绍 »"
+    },
+    {
+        "title": "Typewolf：一个以字体为主题的网站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/5033234564ecc31d63efaa01b056b3b2.jpg",
+        "detail": "Typewolf 一个以字体为主题的网站，展示各网站上的优美字体和使用此字体的其他网站，并精心推荐与其相似的字体和与之搭配的字体。各字体提供购买下载。详细介绍 »"
+    },
+    {
+        "title": "Apache Log4j 2：一款全新的日志记录工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/a7c0e3a78e998e2841cf818828d5dff3.jpg",
+        "detail": "Apache Log4j 2是Log4j的升级版，它比Log4j 1.x 版本有了很大的性能提升，在提供了Logback所能提供的功能的同时还解决了Logback的架构下的固有问题。详细介绍 »"
+    },
+    {
+        "title": "SLF4J：一个灵活的Java日志接口",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/c892262a19223b1db4058683f900ec4a.jpg",
+        "detail": "Java简单日志门面（SLF4J即Simple Logging Facade for Java的缩写）是一个针对各种日志框架（如java.util.logging、logback、log4j）的简单门面或者说是抽象化，终端用户可以在项目真正部署运行的时候嵌入自己想要用的日志框架来做日志记录的具体实现。详细介绍 »"
+    },
+    {
+        "title": "imgscalr：Java图像缩放库",
+        "authorName": "dreamkidd",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/89b7599c4a996d583b618d9a3db94522.jpg",
+        "detail": "imgscalr 是一个简单高效（硬件加速）的图片缩放“最佳实践”类库。纯 Java 2D 实现，采用Apache 2协议发布。详细介绍 »"
+    },
+    {
+        "title": "WhatTheFont：图片字体搜索引擎",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/dcfcd07e645d245babe887e5e2daa016.jpg",
+        "detail": "看到一个漂亮的字体想知道它到底是什么字体？试试WhatTheFont吧，上传截图，它会为你在数据库中进行匹配。详细介绍 »"
+    },
+    {
+        "title": "Hexy：滴管快速取色工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/f57efffd59cce9865509665f3e129fa6.jpg",
+        "detail": "选择图层，高亮文本，然后通过拾色器来取色，有的时候是太过复杂的过程，Hexy 则非常方便，它可以使用滴管快速取色然后直接复制到剪切板当中，即取即用。详细介绍 »"
+    },
+    {
+        "title": "MakeAppIcon：一个快速生成App图标的web工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/2a634d5d6a645e9cb037d4b513e21428.jpg",
+        "detail": "MakeAppIcon是一个快速生成移动应用图标的web工具，它能针对App Store和Google Play两个应用商店的不同要求帮你生成不同大小和分辨率的应用图标，支持PNG、JPG以及PSD等不同格式文件。详细介绍 »"
+    },
+    {
+        "title": "Gridzzly：在线纸张图案打印工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/fd1dd0f6d58fdc01796613099da7b96e.jpg",
+        "detail": "Gridzzly:在线纸张图案打印工具是一款针对学生的纸张图案在线设定和打印的工具，支持点、线、正方形、横线、六边形等不同图案的设置并打印到A4纸张上来，同时还有标尺来测量长度。详细介绍 »"
+    },
+    {
+        "title": "Webydo：著名的无代码网站搭建平台",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/598ffaa778777d9445c8eb2f9ffe41a1.jpg",
+        "detail": "Webydo:在线网站设计及托管平台是一家软件服务创业公司开发的致力于帮助网页设计师摆脱传统的网站建站流程，Webydo的工具能够将他们的设计自动转换成 的HTML5网站，设计师在这个过程中无需接触任何的手动编程工作。详细介绍 »"
+    },
+    {
+        "title": "Subtle Patterns：高品质背景素材网站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/d9540e84a284434faf7fa27012c77904.jpg",
+        "detail": "Subtle Patterns提供丰富的pattern素材，用户可以直接在线点击Preview预览，将鼠标移动到素材上方会放大显示细节图供你参考。如果喜欢的话，只要轻松点击左方的下载即可保存该素材图样（gif格式）到本地。方便又快捷，推荐试用。详细介绍 »"
+    },
+    {
+        "title": "CG textures：提供大量免费图片的网站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/256c737cdd6f9f7566bd75ee318b3db4.jpg",
+        "detail": "CG textures：这个网站提供了大量的免费图片，这类图片大多是关于石头、天空、树木等富有纹理质感的对象，当你需要制作有质感的对象的时候，这个网站会成为你最好的帮手！详细介绍 »"
+    },
+    {
+        "title": "Color Pickers：揭示流行配色的奥秘",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/91b95997665f93a5c77dde39720d6c5c.jpg",
+        "detail": "随机挑选了Dribbble上的流行作品，从配色上进行分析，揭示流行的配色奥秘。详细介绍 »"
+    },
+    {
+        "title": "Freebbble：设计师的素材资源下载站点",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/638254333809c19ff9fa6d96cc44b6ad.jpg",
+        "detail": "Freebbble 网站是一个专门为设计师们打造的素材资源查看和下载的站点，主要的来源为Dribbble网站，收录的素材种类包括HTML/CSS、背景、图示集、字型、PSD、使用者介面、网站模版等等，使用者可以在网站上预览这些内容，还能够免费下载、取得原始档。详细介绍 »"
+    },
+    {
+        "title": "Cucumber-JVM：BDD测试Cucumber的JVM实现",
+        "authorName": "dreamkidd",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/0068d29a3561458de3126577629a6fce.jpg",
+        "detail": "Cucumber-JVM 是延伸自 Cucumber 这套 Ruby 平台下的 BDD/ATDD 工具。让Cucumber 所实现的 BDD 想法和功能，也可以在 Java 平台上实现。详细介绍 »"
+    },
+    {
+        "title": "TestNG：一个超越JUnit和NUnit的新测试框架",
+        "authorName": "superXiaoFan",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/e1ce299086dcece46645a0c51dc3cb68.jpg",
+        "detail": "TestNG是一个源于JUnit和NUnit但有所超越的新测试框架。基于Apache2.0协议发布。详细介绍 »"
+    },
+    {
+        "title": "PSddd：高品质免费设计素材分享博客",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/ec224e7b2f99ca63bbc42290e60fd9eb.jpg",
+        "detail": "PSddd：高品质免费设计素材分享博客是一个为设计师们提供高品质素材资源的博客站点，基于Dribbble平台为基础，汇集最专业的免费灵素材，提供例如手机用户界面、图标、按钮、背景图片、UI素材等资源。详细介绍 »"
+    },
+    {
+        "title": "Dribbbleboard：Dribbble作品展示网站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/20c8ce703401c787a2dcafa1b4ca9987.jpg",
+        "detail": "这个网站提供了简约的浏览器界面，以方便浏览Dribbble作品。详细介绍 »"
+    },
+    {
+        "title": "PAKUTAS0：日本比较有名气的素材站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2016/01/ab0c2b9225cfa44cb86191d14223ede3.jpg",
+        "detail": "PAKUTAS0：这个网站在日本素材站上算是比较有名气，估计日本的设计师们都差不多知道啦，有很多日系素材，节日素材、人物定真、动物、建筑、生活日常用品、卡哇伊图像等等，当然是免费的啦。详细介绍 »"
+    },
+    {
+        "title": "OpenAge：「帝国时代2」游戏引擎的开源克隆版",
+        "authorName": "伯小乐",
+        "imgUrl": "http://ww1.sinaimg.cn/mw690/63918611gw1elpge3ngyij20fa08laau.jpg",
+        "detail": "OpenAge 是 SFTTECH 团队从零开始用 C++14 重写的帝国时代2 游戏引擎的开源克隆版，遵循GPLv3+ 协议。这个项目用到了 OpenGL 和 GLSL 等诸多「现代」技术，（当前的）目标只用原始游戏文件创建一个完整的克隆版。这样的话，GNU/Linux 用户也能体验「帝国时代」。详细介绍 »"
+    },
+    {
+        "title": "Stanford CoreNLP：一个独立的自然语言处理框架与服务",
+        "authorName": "凝枫",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2016/01/9d5047476b74370567fb87df1c06f500.png",
+        "detail": "Stanford CoreNLP 提供了一系列自然语言的分析工具，对于用户提供的一段文字，它都能提供出每个词语的组成与语法，与相互之间的依赖关系。详细介绍 »"
+    },
+    {
+        "title": "DEMOO：为移动端方案设计演示而生",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn2.b0.upaiyun.com/2015/12/9e7af3cb3605ca05bb42f7fc8c7520de.jpg",
+        "detail": "Demoo基于web设计搭建，无需安装，在浏览器内可视化操作，简单便捷的创建方式，通过上传平面稿件，用手势或触点热区的方式把界面关系连接起 来，加入连接转场特效，输出一份仿真APP的、可体验操作的设计方案，满足在电脑、会议投影现场及手机上体验操作详细介绍 »"
+    },
+    {
+        "title": "Angular-ui-router：基于AngularJS的可嵌套路由",
+        "authorName": "Erichain",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/f6663b8c867548f1cc243b7ee09658811.png",
+        "detail": "ui-router是一个可以用来替换AngularJS原生路由的插件，它最大的特点就是支持嵌套路由。详细介绍 »"
+    },
+    {
+        "title": "Dynamics.js：创建具有物理运动效果动画的JS库",
+        "authorName": "马艳琼",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/9ab84fd36659cff1e9e9e26561d9e942.png",
+        "detail": "Dynamics.js 是用来创建具有物理运动效果动画的 JavaScript 库，可以用来制作基于 DOM 元素的 CSS 属性动画，也可以制作 SVG 属性动画和任何 JavaScript 对象动画。详细介绍 »"
+    },
+    {
+        "title": "Ebean：开源ORM框架",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/62063fc230fa2b13c4ca01c6efb18850.png",
+        "detail": "Ebean：开源ORM框架 Ebean是一个Java实现的开源ORM框架，具有数据访问快速和易于学习、使用等特点。详细介绍 »"
+    },
+    {
+        "title": "JSON3：一个现代JSON实现库",
+        "authorName": "tzstone",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/e7a422ab33a0d698d8607506dd81db391.png",
+        "detail": "JSON3是一个现代JSON实现库，能够兼容各种各样的Javascript平台，比如IE6、Opera7、Safari2及Netscape6等。当前最新的版本是3.3.2。详细介绍 »"
+    },
+    {
+        "title": "ADT4J：一种Java代数类型开发库",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/b99e752b3b8fb5b90f7d419646430230.png",
+        "detail": "ADT4J实现了Algebraic Data Types，支持@GenerateValueClassForVisitor注解。ADT4J为每一个@GenerateValueClassForVisitor 注解构造一个新的类，允许你简单定义一个常用数据类型。详细介绍 »"
+    },
+    {
+        "title": "Joda-Time：Java时间日期工具库",
+        "authorName": "Hodur",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/d02057e10e6201cd0660ef98cf29dd83.png",
+        "detail": "Joda-Time:Java时间日期工具库详细介绍 »"
+    },
+    {
+        "title": "html5media：兼容、高效的HTML5视频播放器",
+        "authorName": "Tab_Gre",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/15c12238fde1d76813243fe1b2b911d1.png",
+        "detail": "随着HTML5的风行，、多媒体标签使得多媒体的插入更加容易，但是它们对低版本浏览器的支持度不够高，所以heml5media来了。详细介绍 »"
+    },
+    {
+        "title": "ECMAScript 6：特性",
+        "authorName": "zhoutk",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/ef5b3079a7df7e1ded5308d282f01476.png",
+        "detail": "ECMAScript 6(标准官方名称是 ECMAScript 2015) 是 ECMAScript 的最新一代标准。ES6 的发布将是这门语言自2009年 ES5 正式发布以来的首次更新，是一次富有意义的更新。主流Javascript引擎中的这些新特性正在开发中。详细介绍 »"
+    },
+    {
+        "title": "is.js：检查类型、正则表达式、是否存在、时间等",
+        "authorName": "GavinZhang",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/e72f1d4888be80728cf8ba3a602590f9.png",
+        "detail": "is.js 是一个微型通用性数据检查验证包。目前提供了数据类型、存在性、正则表达、字符串、数学、对象、数组、运行环境、时间、配置10大类110个验证方法。详细介绍 »"
+    },
+    {
+        "title": "Underscore : 函数式编程工具库",
+        "authorName": "Void_Yuan",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/69319c95f8eb9d7294455acd19d397df.png",
+        "detail": "Underscore 是一个 JavaScript 工具库，它引入了一整套函数来更方便地操作Objects、Arrays、Functions对象。与此同时，该库提供了一些函数式编程的实用功能。详细介绍 »"
+    },
+    {
+        "title": "way.js：轻量级、持久化的双向绑定JS库",
+        "authorName": "GavinZhang",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/0704ea9e423c926c5b312ed642facc66.png",
+        "detail": "Way.js 是一个简单易用的轻量级双向数据绑定JavaScript库。无第三方依赖，可与任何JS框架搭配使用。详细介绍 »"
+    },
+    {
+        "title": "PowerMock：Java单元测试框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/88b0df78f42fb2c49b8ff802fb10eb7e.png",
+        "detail": "PowerMock是一个Java单元测试框架，可以对通常认为很难或者不可能测试的代码完成测试。详细介绍 »"
+    },
+    {
+        "title": "Apache Storm：分布式实时计算系统",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/faace763ca357ed9b1744091422123d2.png",
+        "detail": "Apache Storm是一个免费开源的分布式实时计算系统，具有简单易用、快速、可扩展、容错等优点。集成了为人熟知的队列和数据库技术。一个Storm的拓扑结构可以以任何复杂的方式处理数据流、在每个处理阶段按需重新分配数据流。Storm有很多适用场景：实时分析、在线机器学习、持续计算、分布式RPC、ETL等等。详细介绍 »"
+    },
+    {
+        "title": "Getty Images：全球最大的商业图片供应商",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/db6d42dd8dd8ed71e98fe08cad121b77.jpg",
+        "detail": "Getty Images拥有超过1500万张的在线创意图片，内容几乎涵盖全部主题，每月更新5万张图片。为满足中国本土客户的个性化使用需求，已经与10余个本土品牌建立合作，以更好的提供彰显东方元素的优秀图片。详细介绍 »"
+    },
+    {
+        "title": "Morgue File：免费图片素材下载站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/79c05c55f5cc3c9d8b0e423fef98124a.jpg",
+        "detail": "MorgueFile：网站托管超过 30 万张免费图片，你可以自由使用它们至个人或商业项目，而无须标示姓名。相簿也内建一个剪裁工具，你甚至可以直接把图片置入自己的网站。详细介绍 »"
+    },
+    {
+        "title": "Wikimedia Commons：收录21万张图片的维基共享资源",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/fb926a584475de6d305ab03ac87005d6.jpg",
+        "detail": "Wikimedia Commons（维基共享资源）：网站收录 21 万张以上的图片，有些为免费授权，有些则属于公共领域。这些图片分门别类，可使用搜寻关键字来进行查找。详细介绍 »"
+    },
+    {
+        "title": "Design Tickle：一个Dribbble案例展示杂志",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/b4c1f9f6e813ccfa8b9a18437340327f1.jpg",
+        "detail": "这是一个“Dribbble案例展示杂志”，收录了Dribbble网上的一些优秀作品。分类工作做的很不错。详细介绍 »"
+    },
+    {
+        "title": "Protégé：开源智能系统本体编辑和知识获取框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/081ddcf7fc38ae8f0736c0fe331dace5.jpg",
+        "detail": "Protégé是一个开源智能系统本体编辑和知识获取框架，包括构建框架和本体（ontology）编辑器。详细介绍 »"
+    },
+    {
+        "title": "Fribbble：在线免费PSD资源下载站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/38d9a301e74f57a57e975510f6b8f043.jpg",
+        "detail": "Fribbble 是一个免费高速下载dribbbler PSD资源站。该网站是从Dribble网站获得免费的PSD资源。详细介绍 »"
+    },
+    {
+        "title": "Gson：一个JSON与Java对象转换开源类库",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/cd79f7b890b5d632d0d8c79c2385bcb0.png",
+        "detail": "Gson是Google提供的一个能够将Java对象转换成他们相应的JSON表达形式的一个开源Java类库。详细介绍 »"
+    },
+    {
+        "title": "Jersey：你值得拥有的Java RESTful框架",
+        "authorName": "JM",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/cea4b0268532f145a071820b98210389.png",
+        "detail": "Jersey是开源的RESTful Web Services框架, 实现了JAX-RS (JSR 311 & JSR 339) 规范并且扩展了JAX-RS， 提供了更多的特性和工具，以便开发者进一步地简化 RESTful  Web Service及其客户端的开发。详细介绍 »"
+    },
+    {
+        "title": "Hamcrest：创建拥有灵活表达式的匹配器",
+        "authorName": "superXiaoFan",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/a0426d96421a4ef78385662e94d54480.jpg",
+        "detail": "Hamcrest是一个匹配器库。它可以在测试中创建拥有灵活表达式的匹配器。所以它们也是主要用于测试。详细介绍 »"
+    },
+    {
+        "title": "Animaticons：免费下载可定制的 Gif 动图图标",
+        "authorName": "卢伟",
+        "imgUrl": "http://ww3.sinaimg.cn/large/0064cTs2jw1eyhqiwkrp2j30hs0d23zj.jpg",
+        "detail": "Animaticons提供的素材很特别，不是一般GIF图示，而是透明背景、可依照你网站实际需要来微调的图示集。更明确解释，这些图示可自由更换颜色、停止自动播放、变更大小，或者设定成当滑鼠移动过去才开始动作。详细介绍 »"
+    },
+    {
+        "title": "OWNER：Java配置文件解决方案",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/a192f99274c56bc279af3e28c6122575.png",
+        "detail": "OWNER是一个Java库，目标是最大限度的减少应用程序中处理Java properties的代码。详细介绍 »"
+    },
+    {
+        "title": "Hudson：一款持续构建工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/72c033ee1eab96f1cbb8e3d0ad940685.png",
+        "detail": "Hudson是一款用来监控类似软件项目构建或Cron任务执行过程这样重复性工作执行情况的工具。详细介绍 »"
+    },
+    {
+        "title": "Mockito：一个强大的开源Java模拟测试框架",
+        "authorName": "贺贺",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/2f5ec52bc9cbb365c011801c8fa581b31.png",
+        "detail": "Mockito是一个强大的开源Java模拟测试框架，能够在自动化单元测试中创建测试对象，为TDD或BDD提供支持。详细介绍 »"
+    },
+    {
+        "title": "Barn Images：高质量免费图库站",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/272a7cff82fd184429888c3b1894e344.jpg",
+        "detail": "Barn Images 以收集免费、高画质且非图库性质的摄影相片为主，由两位来自拉脱维亚的摄影师创立，他们有着非常丰富的摄影工作经验，决定把自己拍摄的照片释出，开放让更多来自世界各地的使用者能免费下载、使用。详细介绍 »"
+    },
+    {
+        "title": "Java 8 in Action:清楚的解释了Java 8的新的特性",
+        "authorName": "大彭",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/703f1c04d079b4a5806ef0b471520400.jpg",
+        "detail": "\"Java 8 in Action\"一书清楚的解释了Java 8的新的特性。以lambdas引入，后面又引入了Streams API，并且向读者展示了如何利用该特性让基于集合的代码更加循序渐进、不断深入地进行理解，全书妙趣横生。本书也对Java 8其它的一些重要的特性加以介绍，包括default methods（默认方法）、Optional、CompletableFuture、时间和日期API等，本书适合熟悉Java及了解面向对象基础的编程人员。详细介绍 »"
+    },
+    {
+        "title": "Jenkins：一款持续集成与持续交付应用",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/723e9be3f283eb3b280bcc0c1dcd5951.png",
+        "detail": "Jenkins是一个获奖众多的、跨平台的可以提高生产力的持续集成与持续交付应用。Jenkins为你提供了多种途径来定义你的构建通道、集成大量测试和实施技术，从而使得你的软件项目可以持续交付。详细介绍 »"
+    },
+    {
+        "title": "PxCook：一款图片标注、切图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/dea1a088838d7cd0403fa690b5e71485.jpg",
+        "detail": "PxCook像素大厨：UI设计师效率提升利器，让你专注于设计本质，不再为标注切图而烦恼，从设计到实现一气呵成。详细介绍 »"
+    },
+    {
+        "title": "Cutterman：免费的切图插件",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/268b278f663297e76ec321c30e761b8d.jpg",
+        "detail": "Cutterman：是一款运行在photoshop中的插件，能够自动将你需要的图层进行输出，以替代传统的手工 \"导出web所用格式\" 以及使用切片工具进行挨个切图的繁琐流程。详细介绍 »"
+    },
+    {
+        "title": "Online Image Splitter：在线切图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/5cd720c80e22764060b5c98185a06024.jpg",
+        "detail": "Online Image Splitter：打开网址上传想要切图的图片即可进行切割，分三步进行操作就行。简单快捷。详细介绍 »"
+    },
+    {
+        "title": "Floid：一款MAC版交互设计神器",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/428a8310cd442757ae699df5d894f051.jpg",
+        "detail": "Floid：目前只有MAC版下载（windows版还需再等等哦），含有ios和安卓端手机预览APP，支持GIF动态效果录制，支持PSD/Sketch3文档直接导入，即时预览效果，支持HTML导出等等强大实用功能。详细介绍 »"
+    },
+    {
+        "title": "Flat UI Colors：漂亮的扁平化配色",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/938fa82f3718d898bee1c5d55a1600ad.jpg",
+        "detail": "Flat UI Colors 网站采集了扁平化设计中最受欢迎的色彩，绝对是您进行扁平设计的必备工具，可以吸取复制任何你看中的色彩。详细介绍 »"
+    },
+    {
+        "title": "0 to 255：同色系配色的工具",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/211da3f3884b26205609d0af0170f951.jpg",
+        "detail": "对做美工的人来说，常常会有如何配色及取出颜色代码的需求，专业人士可能有很好的工具来协助，但对于偶尔需要或非经常接触美工的人来说，即便是有很好的工具，也还要花很多时间进行学习。0to255 就是一个可以帮我们搭配相近颜色的免费服务网站。详细介绍 »"
+    },
+    {
+        "title": "Bootflat：来自扁平化设计的完美配色方案",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/1da725dd0f2fde877acbe8f35299dfe7.jpg",
+        "detail": "Bootflat 是一个开源的扁平化的 UI 工具包，基于 Bootstrap 3.1.0 CSS 框架。详细介绍 »"
+    },
+    {
+        "title": "Public Domain Archive：免费高清图像下载站点",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/08fd3a64d4ff8fc26cf06999aad92b2e.jpg",
+        "detail": "Public Domain Archive是一个在线公共图片分享网，绝对值得推荐。Public Domain Archive发布了用于公共领域的图片资源，每周都会发布最新的图片，用户可以免费下载使用，不过所收录的高清晰图片都是有时间限制的，想要就尽快下载吧。详细介绍 »"
+    },
+    {
+        "title": "Reactive Streams：异步流处理标准",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/ba164709a02c09d174412e97303ce7d7.png",
+        "detail": "Reactor是一个基于 JVM 之上的异步应用基础库。为 Java 、Groovy 和其它 JVM 语言提供了构建基于事件和数据驱动应用的抽象库。Reactor 性能优秀，在最新的硬件平台上，使用无阻塞分发器每秒钟可处理 1500 万个事件。详细介绍 »"
+    },
+    {
+        "title": "Kafka：下一代分布式消息系统",
+        "authorName": "kingzone",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/975609a391574a15645c2d2e2494114f.png",
+        "detail": "Apache Kafka是分布式发布-订阅消息系统。它最初由LinkedIn公司开发，之后成为Apache项目的一部分。Kafka是快速可扩展的，其设计内在就是分布式的，支持分区和可复制提交日志服务。详细介绍 »"
+    },
+    {
+        "title": "Intellij IDEA：优秀的Java开发工具",
+        "authorName": "马",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/9d38e8343cf2ab5327f52af6b55e3c3a-1024x406.png",
+        "detail": "Intellij IDEA 是由JetBrain开发的一款优秀的Java开发工具。著名的Android Studio就是谷歌基于IntelliJ IDEA开发而来的。目前可下载的有免费的Community Edition和收费的Ultimate Edition。详细介绍 »"
+    },
+    {
+        "title": "Gradle：新一代自动化构建工具",
+        "authorName": "dreamkidd",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/3726e50d6c3d4557a56b2a905aa47dd9.png",
+        "detail": "Gradle是以 Groovy 语言为基础，基于DSL（领域特定语言）面向Java 应用的构建工具。Gradle让不可能变成可能，让构建更优雅、更容易。详细介绍 »"
+    },
+    {
+        "title": "Feign：Java HTTP客户端库",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/402ffcbe20c6987dec750fbacfc63c6a.png",
+        "detail": "Feign使得 Java HTTP 客户端编写更方便。Feign最初是为了降低统一绑定Denominator到HTTP API的复杂度，不区分是否支持Restful。Feign旨在通过最少的资源和代码来实现和HTTP API的连接。通过可定制的解码器和错误处理，可以编写任意的HTTP API。详细介绍 »"
+    },
+    {
+        "title": "AssertJ：支持流式断言的Java测试框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/0da28a987152fdf33a0e06fbf6f6b30a.png",
+        "detail": "AssertJ为Java提供了流式断言（Fluent assertions）。详细介绍 »"
+    },
+    {
+        "title": "Arquillian：针对Java中间件的集成测试和功能性测试平台",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/d94b6f33de76fe3f6479dc3004644457.png",
+        "detail": "Arquillian是一个针对JVM高度可扩展的新型测试平台。开发者可以用它对Java中间件方便地进行自动化集成测试、功能测试和验收测试。详细介绍 »"
+    },
+    {
+        "title": "Guifff：展示Dribbble上的Gif动效作品",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/c0649f9485999d9d0d6972b3feb04dd7.jpg",
+        "detail": "Guifff：一个展示Dribbble上非常精美和有趣的Gif动效作品的资源站点，把鼠标放在GIF图上，则会出现图像来源，点击可进入。详细介绍 »"
+    },
+    {
+        "title": "DepositPhotos：一个销售免税版照片和矢量图片的资源站点",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/5d998867e998bfd16058c2922a29efeb.jpg",
+        "detail": "Depositphotos是一个购买和销售免税版照片和矢量图片的资源站点。网站上出售的所有图片，都是经知识产权保护，并且免版税的。详细介绍 »"
+    },
+    {
+        "title": "JAXenter：最全的Java资讯站点",
+        "authorName": "王涛",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/9258661fcd72ecfc0bcd38dfebbaaf4b.png",
+        "detail": "JAXenter向读者提供Java的新闻、Java的技术文章、顶尖工程师关于软件开发与设计的视频，为读者提供广泛的讨论话题。JAXenter致力于提供最全、最新的Java资讯。详细介绍 »"
+    },
+    {
+        "title": "ZXing：一个开源二维码生成与解析Java类库",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/7658175acfd7f13fcb4433f819480aeb.png",
+        "detail": "ZXing（“zebra crossing”）是一个支持多种格式的条形码和二维码图形解析的开源Java类库，同时它也提供了其他语言的接口。详细介绍 »"
+    },
+    {
+        "title": "Apache POI：支持OOXML与OLE2规范的Office文档操作Java库",
+        "authorName": "zhangQian1991",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/7d4a08d28578912d1292b1cf8276a1e5.png",
+        "detail": "Apache POI项目的使命是创造和维护可以操作各种基于Office Open XML标准或者微软OLE2格式文件的Java API。详细介绍 »"
+    },
+    {
+        "title": "Gatling： 基于Scala、Akka和Netty的开源负载测试框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/367b60921b5af64d49b1cb92ce201c72.png",
+        "detail": "Gatling是基于Scala、Akka和Netty的一个开源负载测试框架。它性能优秀、支持HTML报表、支持场景记录，提供面向开发者友好的领域特定语言。详细介绍 »"
+    },
+    {
+        "title": "Apache Solr：企业级全文搜索服务器",
+        "authorName": "刘立华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/038733140d4292e1f4c9c28b48247f54.png",
+        "detail": "Apache Solr是一个基于Apache Lucene的企业级全文搜索服务器。类REST的API，可以通过HTTP设置索引和查询结果，支持的参数格式包括JSON、XML、CSV和二级制类型。详细介绍 »"
+    },
+    {
+        "title": "Jackson：Java开源JSON格式解析工具",
+        "authorName": "cheenlie",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/aab927662378a648c35f2274c3a2df73.png",
+        "detail": "Jackson是Java下相对比较高效的常见JSON解析库，在项目中主要使用Jackson进行JSON和Java对象转换。详细介绍 »"
+    },
+    {
+        "title": "Apache ActiveMQ：一款开源消息传递工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/5246f836f0c35a0fdee615a89ce8aeb7.png",
+        "detail": "Apache ActiveMQ是目前最流行功能最强大的开源消息和集成模式服务。不仅速度快而且支持众多的跨语言平台和协议，同时拥有非常易用的企业集成模式以及支持JMS1.1和J2EE1.4等众多高级特性。详细介绍 »"
+    },
+    {
+        "title": "Groovy：基于JVM的面向对象动态类型语言",
+        "authorName": "dreamkidd",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/8409fbee24fdb4143268f40dea9827b0.png",
+        "detail": "Apache Groovy 是一个功能强大、可选类型的动态语言，有静态类型和静态编译能力。旨在通过简单、熟悉、易学的语法来提高 Java 平台的开发人员的开发效率。详细介绍 »"
+    },
+    {
+        "title": "Guice：Google轻量级依赖注入框架",
+        "authorName": "dreamkidd",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/8795e835b3eb363ea9d8feff34933614.png",
+        "detail": "Google Guice是为 Java 5及后续版本设计的超轻量级依赖注入（DI Dependency Injection）容器。支持依赖注入，对注解、用户自定义Bean作用域、循环依赖、静态成员注入、集成Spring、AOP及方法拦截都提供了很好的支持。详细介绍 »"
+    },
+    {
+        "title": "JavaCC：Java语法解析器生成工具",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/12/45e9aca4e66fa9f2dfbf591ed45a91a0.jpg",
+        "detail": "JavaCC是一个Java编写的Java Parser生成器，生成的解析器全部为Java代码。JavaCC以及由它生成的解析器已经在各种平台上运行。JavaCC提供了一些列语法，包括Java 1.0.2、Java 1.1、Java 2以及许多HTML语法。详细介绍 »"
+    },
+    {
+        "title": "Spirograph：一个非常有趣的HTML5绘图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/de666e10ddcf967b43096c25490a1e63.jpg",
+        "detail": "Spirograph：是一个非常有趣的HTML5绘图工具，它不是由你来使用画笔，而是让设定绘图参数，这个工具能根据你的参数绘制有规律的数学图案。详细介绍 »"
+    },
+    {
+        "title": "Zwibbler：神奇的HTML5绘图工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/dfcd681eb60f68215c849b58742f9d22.jpg",
+        "detail": "Zwibbler：这款工具提供了各种图形的快捷方式，有点像Photoshop的工具面板。你可以从工具栏上拖着想要的图形形状，然后在画布上修改。详细介绍 »"
+    },
+    {
+        "title": "Studio：图片编辑工具和社区",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/90efaf87cc42e1fa22e7ad5cd81ef2cc.jpg",
+        "detail": "Studio 允许用户在照片中添加文本、边框、滤镜和其它创意元素等图层或效果，这是其它图片编辑应用也能做的。详细介绍 »"
+    },
+    {
+        "title": "Vaadin：构建单页面Web应用的Java服务端框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/9eabf089b2ae657d97768fafdec6376e.png",
+        "detail": "Vaadin是一个Java Web应用开发框架。不同于Javascript开发库和基于浏览器插件的解决方案，Vaadin提供了完整的技术栈，包括健壮的服务端编程模型，以及基于GWT和HTML5的服务端开发工具。详细介绍 »"
+    },
+    {
+        "title": "ProtoPie：一款简易高端的原型设计工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/8b473ddcd7a6491f06f4b5f74f3f834f.jpg",
+        "detail": "ProtoPie 是一款以移动app设计师为出发点，连接产品经理和开发者的简易高端的APP原型设计工具——ProtoPie。中文名：菠萝头派详细介绍 »"
+    },
+    {
+        "title": "jsoup：一款Java开源HTML解析工具",
+        "authorName": "BadCoder",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/f7e46f0fd51c99aec1394bd50d49d03d.png",
+        "detail": "jsoup 是一个用于解析HTML的Java 类库。它提供了一套非常方便快捷的API，通过DOM、CSS以及类似于jQuery的操作方法来取出和操作数据。详细介绍 »"
+    },
+    {
+        "title": "Ratpack：一组面向现代HTTP应用Java开发库",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/ce5e0445dc0a230e37fe0c7e9c0b9d8d.png",
+        "detail": "Ratpack一组面向现代HTTP应用Java开发库。可用来开发实用、高性能应用程序。Ratpack基于Java 8、Netty构建，遵循响应式开发原则。详细介绍 »"
+    },
+    {
+        "title": "Mag+：交互杂志设计工具",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/f987b4548c09164b18bd2142b0e009e2.jpg",
+        "detail": "Mag+是纽约的一家公司推出的交互杂志设计工具，《POPULAR SCIENCE》便是采用Mag+进行设计及发布。Mag+没有自己独立的编辑器，需要将插件安装在indesign软件里进行交互设定。详细介绍 »"
+    },
+    {
+        "title": "Adobe DPS：提高数字出版工作效率的软件",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/18de8aa5bf826806adb532c4a0512401.jpg",
+        "detail": "Adobe Digital Publishing Suite 是Adobe公司出品的数字出版解决方案，将多媒体内容发布为移动设备可用APP的封装软件，简称DPS。详细介绍 »"
+    },
+    {
+        "title": "Wire Worm：帮助你去除照片中不想要的物体",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/514e57852001cae4854ae7b3a0bcdcea.jpg",
+        "detail": "这个小插件将帮助你从图像中移除电线等不需要的对象。虽然修复画笔工具也能实现这个功能，但插件作者说该插件拥有先进色彩匹配和无缝修补效果。详细介绍 »"
+    },
+    {
+        "title": "Perfect Effects 8：很棒的图像特效处理插件",
+        "authorName": "卢伟",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/b4f6765c615141adad7a1b4c6db15210.jpg",
+        "detail": "很棒的图像特效处理插件，共有125个风格的照片效果，只需要点击一直就能实现。常见的有复古、黑白、怀旧、照片边框等等，具体自己可以尝试使用。详细介绍 »"
+    },
+    {
+        "title": "IconFinder：在线图标搜索引擎",
+        "authorName": "rose",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/be8fe4c12c4e43217c06098a2595a950.jpg",
+        "detail": "IconFinder：是一个专注于图标的搜索引擎，通过它你可以快速找到你所需要的图标，并且它收录的图标一般都是免费的。详细介绍 »"
+    },
+    {
+        "title": "SoftIcons：提供免费图片资源的站点",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/b9e1cb790a555aba17e321284c2eec26.jpg",
+        "detail": "Softicons是一个提供免费图片资源的站点，并且有很详细的分类;同时还提供icon图标搜索功能。详细介绍 »"
+    },
+    {
+        "title": "FindIcons：全球最大的免费图标搜索引擎",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/476f9065857907bbadd2c596ae32cf4e.jpg",
+        "detail": "FindIcons是一个图标搜索引擎,它有一个在世界上最大的图标数据库、先进的过滤和搜索结果匹配系统,可以帮助我们快速精准的找到所需要的免费图标。详细介绍 »"
+    },
+    {
+        "title": "DryIcons：免费矢量图标素材下载网",
+        "authorName": "单╰(*´︶`*)╯",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/64889f16f42db630ce367dfa392b8317.jpg",
+        "detail": "DryIcons:免费矢量图标素材下载网是一个提供免费矢量素材、图标、icon、背景等素材资源下载的网站详细介绍 »"
+    },
+    {
+        "title": "Icotrip：一个图标提供站点",
+        "authorName": "rose",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/3049a1f0f1c808cdaa4fbed0e01649b1.jpg",
+        "detail": "Icotrip是一个图标提供站点，其创立者是一个设计师，每天提供一个图标，用户可以下载和RSS订阅。在 icotrip 里的图示具有相当高的原创性，较难在其他地方看到相同的，图示风格采用简洁的黑白双色。详细介绍 »"
+    },
+    {
+        "title": "PrimeFaces：Java EE终极UI框架",
+        "authorName": "唐尤华",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/4b1337d213218df0a7b53b9116e69ee3.png",
+        "detail": "PrimeFaces是最受欢迎的Java EE UI库，被软件公司、世界知名品牌、银行、金融机构、保险公司、大学等广泛使用。PrimeFaces提供免费和带支持的商业版本。包括若干前端组件。详细介绍 »"
+    },
+    {
+        "title": "Netty：异步事件驱动的网络应用框架",
+        "authorName": "John Smith",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/a7eeb52cb297363a0fe1620fe9faaafa.png",
+        "detail": "Netty是一种异步事件驱动的网络应用框架，用以支持高性能协议服务器应用和客户端程序的快速开发。其健壮性、功能、性能、可定制和可扩展行在同类NIO框架中都是首屈一指，并得到大量商业项目的验证。详细介绍 »"
+    },
+    {
+        "title": "JUnit：Java单元测试框架",
+        "authorName": "kingzone",
+        "imgUrl": "http://jbcdn1.b0.upaiyun.com/2015/11/fe3340792dbb958b9028c75ceb2744e9.png",
+        "detail": "JUnit是一个Java语言的单元测试框架。它由Kent Beck和Erich Gamma建立，逐渐成为源于Kent Beck的sUnit的xUnit家族中最为成功的一个。 JUnit有它自己的JUnit扩展生态圈。多数Java的开发环境都已经集成了JUnit作为单元测试的工具。详细介绍 »"
+    },
+    {
+        "title": "Java Concurrency in Practice：《Java并发编程实战》",
+        "authorName": "kingzone",
+        "imgUrl": "http://img3.douban.com/lpic/s7663093.jpg",
+        "detail": "《Java并发编程实战》深入浅出地介绍了Java线程和并发，是一本完美的Java并发参考手册。适合Java程序开发人员阅读。详细介绍 »"
+    }
+]
